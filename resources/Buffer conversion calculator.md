@@ -20,7 +20,7 @@ Make your own copy of this sheet by clicking File → Make a Copy.
 Be sure to give it a more helpful name than "Copy of BuffCalc V0.03." You may find it helpful to make a copy for each commonly used buffer in your lab.
 
 ### Step 2: Enter your buffer name (optional) and target volume.
-Currently, target volume must be expressed in mL; we may add L at a later date. If a buffer name is added, it will be included in the readout section.
+Currently, target volume must be expressed in mL; we may add L at a later date. If a buffer name is added, it will be included in the "Recipe" section.
 
 ### Step 3: Enter your reagent information. 
 Not all values are required for each reagent. Required values are in the table below; other values can be entered, but will not affect calculations.
@@ -36,7 +36,7 @@ Not all values are required for each reagent. Required values are in the table b
 This spreadsheet is in the testing phase. 
 
 ### Step 5 (optional): Select and print the results columns. 
-You may wish to print only the last cells for bench use. Highlight the RECIPE section and print (File > Print, Ctrl+P, etc.). In the Google Sheets print menu, select **Print > Selected Cells.** 
+You may wish to print only the last cells for bench use. Highlight the "Recipe" section and print (File → Print, Ctrl+P, etc.). In the Google Sheets print menu, select **Print → Selected Cells.** 
 
 
 If you notice a problem with this worksheet, email Richard: rbaker@calacademy.org
