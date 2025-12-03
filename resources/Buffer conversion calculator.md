@@ -33,7 +33,7 @@ Not all values are required for each reagent. Required values are in the table b
 | Pure liquids            | Molecular weight; density; target concentration/units   |
 
 ### Step 4: Verify results. 
-This spreadsheet is in the testing phase. 
+This spreadsheet is in the testing phase. If you notice any issues, pass them on to Richard in the CCG.
 
 ### Step 5 (optional): Select and print the results columns. 
 You may wish to print only the last cells for bench use. Highlight the "Recipe" section and print (File → Print, Ctrl+P, etc.). In the Google Sheets print menu, select **Print → Selected Cells.** 
