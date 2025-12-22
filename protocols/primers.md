@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Resuspending primers
+nav_order: 1
 parent: Protocols
 ancestor: Protocols
 ---
