@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resuspending primers
-parent: Library prep
+parent: Protocols
 ancestor: Protocols
 ---
 
