@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Quantification
-nav_order: 4
+nav_order: 5
 parent: Protocols
 has_children: true
 ---
