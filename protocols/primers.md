@@ -5,7 +5,7 @@ parent: Protocols
 ancestor: Protocols
 ---
 
-# Resuspending primer stocks & making 10 µM dilutions
+# Resuspending and diluting primers
 
 {: .note }
 Your primer stocks come lyophilized (freeze-dried) from the company. It is best to resuspend them **(in TE buffer or sterile H₂O)** soon after they arrive. If you must store them for a period of time before resuspending, place them at -20 °C. 
