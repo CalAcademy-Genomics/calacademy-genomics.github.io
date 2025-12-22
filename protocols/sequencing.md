@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sequencing
-nav_order: 6
+nav_order: 7
 parent: Protocols
 has_children: true
 ---
