@@ -39,7 +39,7 @@ Select the California Academy of Sciences Business Reception drop box for pickup
 ### Part 2: Sample Preparation
 
 #### Option 1: Non-Qubit Method:
-1. Add 5µL of 5 µM primer to each tube (2.5µL of our standard 10 µM primers)
+1. Add 2.5µL of 10 µM primer to each tube.
 2. Add a standard amount of DNA to each tube for your samples (remember to have each direction separate). More DNA is required for longer fragments >1,000 bp.
 > - Herps - 1µL
 > - Arachnids - 3µL
@@ -53,7 +53,7 @@ Select the California Academy of Sciences Business Reception drop box for pickup
 > - < 500 bp: ~10 ng (H3)
 > - 500-1,000 bp: ~20 ng (COI, 16S, 28S fragments)
 > - 1,000-2,000 bp: ~40 ng (18S, 28S full)
-3. Add 5µL of 5 µM primer to each tube (2.5µL of our standard 10 µM primers).
+3. Add 2.5µL of 10 µM primer to each tube.
 4. Add calculated amount of DNA from Qubit to each well.
 5. Add Millipore water to bring volume in tube up to 15µL.
 > <img src="https://raw.githubusercontent.com/CCG-CAS/CCG-CAS.github.io/refs/heads/main/assets/genewiz%20table.png" 
