@@ -9,7 +9,7 @@ has_children: true
 Below are some helpful papers for folks interested in learning more about the field and its techniques:
 
 **Introductions to the Field of Museomics and beyond**
-- [Mining museums for historical DNA: advances and challenges in museomics](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(21)00214-7) (Raxworthy, Christopher J. et al., 2021) Trends in Ecology & Evolution, Volume 36, Issue 11, 1049 - 1060
+- [Mining museums for historical DNA: advances and challenges in museomics](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(21)00214-7) (Raxworthy et al., 2021) Trends in Ecology & Evolution, Volume 36, Issue 11, 1049 - 1060
 - [A systematic review on environmental DNA (eDNA) Science: An eco-friendly survey method for conservation and restoration of fragile ecosystems](https://www.sciencedirect.com/science/article/pii/S1470160X25003711?ref=pdf_download&fr=RR-2&rr=9c54906afb38cf49) (Sahu et al., 2025) Ecological Indicators, Volume 173, April 2025, 113441
 
 **Protocol Developments**
