@@ -38,6 +38,7 @@ If possible, use material taken from young, freshly formed leaves since they con
 5. Cut tissue samples into small pieces and place into a standard screw-cap tube.
 
 ### Protocol (per sample tube)
+
 {:style="counter-reset:none"}
 6. Add approximately ¼ tube of homogenization beads and securely tighten the cap.
 
@@ -49,7 +50,7 @@ Dry, homogenized plant tissue (especially those with fine/fuzzy trichomes) tends
 10. Remove tubes and check that the dried tissue is ground to a fine powder (or the fresh tissue is ground well).  Repeat homogenization step once as required. If unground tissue remains, it may be necessary to reduce the total amount of Buffer AE used in the DNA elution. 
 11. Spin down samples thoroughly. 
 
-   {: .note }
+{: .note }
 Note that dried plant tissue may stick to tube lids due to static cling; open these tubes very carefully. If AP1 was added prior to homogenization, additional spin time may be necessary to reduce foaming.
 
 {:style="counter-reset:none"}
@@ -58,7 +59,7 @@ Note that dried plant tissue may stick to tube lids due to static cling; open th
 13. Vigorously vortex the tubes (so no tissue clumps are visible).
 14. Incubate 10+ minutes @ 65°C. Invert to mix 2–3 times during incubation. 
 
-   {: .note }
+{: .note }
 If you have unground tissue, you can incubate the tubes at 65°C for up to 30 minutes, be sure to mix 2 or 3 times every 10 minutes.
 
 {:style="counter-reset:none"}
