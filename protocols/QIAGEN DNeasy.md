@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QIAGEN DNeasy
+title: QIAGEN DNeasy Tissue Kit
 nav_order: 1
 ancestor: Protocols
 parent: Extraction
