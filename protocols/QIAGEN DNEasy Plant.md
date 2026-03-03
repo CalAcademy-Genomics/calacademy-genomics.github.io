@@ -38,20 +38,26 @@ If possible, use material taken from young, freshly formed leaves since they con
 5. Cut tissue samples into small pieces and place into a standard screw-cap tube.
 
 ### Protocol (per sample tube)
+{:style="counter-reset:none"}
 6. Add approximately ¼ tube of homogenization beads and securely tighten the cap.
    {: .note }
 Dry, homogenized plant tissue (especially those with fine/fuzzy trichomes) tends to misbehave due to static electricity generated during homogenization. Powdery fragments often stick to tube lids even after being spun down, which can lead to material escaping the tube when the lid is removed. Adding the AP1 buffer (Step 10) to the sample tubes _prior to homogenization_ may reduce this tendency and the risk of cross-contamination.
+
 8. Load tubes into the [TissueLyser (click for detailed instructions](https://calacademy-genomics.github.io/protocols/TissueLyser%20II.html).
 9. Select the desired preset or set a custom program. A typical setting for plant tissue disruption is two 1-2 min cycles @ 20-30 Hz. 
 10. Remove tubes and check that the dried tissue is ground to a fine powder (or the fresh tissue is ground well).  Repeat homogenization step once as required. If unground tissue remains, it may be necessary to reduce the total amount of Buffer AE used in the DNA elution. 
 11. Spin down samples thoroughly. 
    {: .note }
 Note that dried plant tissue may stick to tube lids due to static cling; open these tubes very carefully. If AP1 was added prior to homogenization, additional spin time may be necessary to reduce foaming.
+
+{:style="counter-reset:none"}
 12. Add 400 µL Buffer AP1 (if not previously included) and 4 µL RNaseA.
 13. Vigorously vortex the tubes (so no tissue clumps are visible).
 14. Incubate 10+ minutes @ 65°C. Invert to mix 2–3 times during incubation. 
    {: .note }
 If you have unground tissue, you can incubate the tubes at 65°C for up to 30 minutes, be sure to mix 2 or 3 times every 10 minutes.
+
+{:style="counter-reset:none"}
 15. Spin down tubes.
 16. Add 130 µL Buffer P3. Vortex briefly and spin.
 17. Incubate 5 min on ice. This step precipitates detergent from the lysis buffer, proteins, and polysaccharides. You can incubate the tubes for up to 30 mins.
