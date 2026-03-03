@@ -53,13 +53,16 @@ Dry, homogenized plant tissue (especially those with fine/fuzzy trichomes) tends
 Note that dried plant tissue may stick to tube lids due to static cling; open these tubes very carefully. If AP1 was added prior to homogenization, additional spin time may be necessary to reduce foaming.
 
 {:style="counter-reset:none"}
+
 12. Add 400 µL Buffer AP1 (if not previously included) and 4 µL RNaseA.
 13. Vigorously vortex the tubes (so no tissue clumps are visible).
 14. Incubate 10+ minutes @ 65°C. Invert to mix 2–3 times during incubation. 
+
    {: .note }
 If you have unground tissue, you can incubate the tubes at 65°C for up to 30 minutes, be sure to mix 2 or 3 times every 10 minutes.
 
 {:style="counter-reset:none"}
+
 15. Spin down tubes.
 16. Add 130 µL Buffer P3. Vortex briefly and spin.
 17. Incubate 5 min on ice. This step precipitates detergent from the lysis buffer, proteins, and polysaccharides. You can incubate the tubes for up to 30 mins.
