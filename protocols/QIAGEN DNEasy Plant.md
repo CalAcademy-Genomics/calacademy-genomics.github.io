@@ -37,85 +37,46 @@ If possible, use material taken from young, freshly formed leaves since they con
 4. Label bags of plant tissue material with the appropriate DNA extraction or sample numbers.
 5. Cut tissue samples into small pieces and place into a standard screw-cap tube.
 
-### Protocol
+### Protocol (per sample tube)
 6. Add approximately ¼ tube of homogenization beads and securely tighten the cap.
    {: .note }
-After homogenization, dried plant tissue (especially those with fine or fuzzy trichomes), tends to misbehave due to static electricity. Examples include powdery fragments sticking to tube lids even after being spun down, releasing a small cloud of material when the tube is opened. Adding the AP1 buffer (Step 10) to the sample tubes prior to homogenization may make powdered material easier to handle.
-
-8. Load at least 4 tubes into the [TissueLyser (click for detailed instructions](https://calacademy-genomics.github.io/protocols/TissueLyser%20II.html).
+Dry, homogenized plant tissue (especially those with fine/fuzzy trichomes) tends to misbehave due to static electricity generated during homogenization. Powdery fragments often stick to tube lids even after being spun down, which can lead to material escaping the tube when the lid is removed. Adding the AP1 buffer (Step 10) to the sample tubes _prior to homogenization_ may reduce this tendency and the risk of cross-contamination.
+8. Load tubes into the [TissueLyser (click for detailed instructions](https://calacademy-genomics.github.io/protocols/TissueLyser%20II.html).
 9. Select the desired preset or set a custom program. A typical setting for plant tissue disruption is two 1-2 min cycles @ 20-30 Hz. 
-10. Remove tubes and check that the dried tissue is ground to a fine powder (or the fresh tissue is ground well).  Repeat homogenization step once as required. If unground tissue remains, it may be necessary to reduce the total amount of Buffer AE used in the DNA elution.
-11. Add 400 µL of Buffer AP1 and 4 µL of RNaseA to each tube. 
-
-
-Vigorously vortex the tubes (so no tissue clumps are visible) and incubate tubes at 65°C for 10 minutes in the preheated incubator or a heat block. Mix 2 or 3 times during incubation by inverting tubes. (If you have unground tissue, you can incubate the tubes at 65°C for up to 30 minutes, be sure to mix 2 or 3 times every 10 minutes).  
-
-
-Add 130 µL of Buffer P3 to the lysate and lightly vortex.  Be mindful when opening your tubes as the lids can be dirty with solution after being inverted during incubation. Have Kimwipes on hand to use for cleaning. If at any point your gloves become dirty, change them.  Be very careful not to allow any cross contamination of the samples.  
-
-
-Incubate for 5 min on ice or on a rack in the freezer.  This step precipitates detergent from the lysis buffer, proteins, and polysaccharides. (You can incubate the tubes for up to 30 mins).
-
-
-Centrifuge the lysate for 5 min at 20,000 x g (14,000 rpm). 
-
-
-After centrifugation, pipet the supernatant to the QIAshredder Mini spin column (lilac) placed in a 2 mL collection tube and centrifuge for 2 min at 20,000 x g (14,000 rpm). This step filters out most precipitates and cell debris.
-
-
-Pour the flowthrough from Step 16 into a new 1.5 mL tube.  Do not disturb the cell-debris pellet at the bottom of the collection tube.  Typically 450 µL of lysate is recovered. Dispose of the used lilac spin column and used collector tube.
-
-
-Make sure EtOH has been added to Buffer AW1.  Add 1.5 volumes of Buffer AW1 to the cleared lysate, and immediately mix by pipetting or inverting the closed tube. For example, to 450 µL lysate, add 675 µL Buffer AW1.  Reduce the amount of Buffer AW1 accordingly if lysate volume is smaller. A precipitate may form after adding Buffer AW1, but this will not affect the DNeasy procedure.
-
-
-Pipette 650 µL of the mixture from step 18 into the DNeasy Mini spin column (clear) placed in a 2 mL collection tube.
-
-
-Centrifuge for 1 min at 6,000 x g (8,000 rpm) and discard the flowthrough into the container for guanidine hydrochloride/EtOH hazardous waste.  Reuse the collection tube.
-
-
-Repeat steps 19 and 20 with the remaining mixture.  Discard flowthrough into the container for guanidine hydrochloride/EtOH hazardous waste and discard the used collection tube.
-
-
-Transfer the DNeasy Mini spin column to a new 2 mL collection tube. 
-
-
-Make sure EtOH has been added to Buffer AW2. Add 500 µL of Buffer AW2 to each of the spin columns. At this point, it is OK to open multiple spin columns at the same time and use the same tip to add the AW2 buffer. Be very careful when doing this to not let the tip come into contact with any of the tubes. Also, be very careful to eject the buffer slowly against the back wall of the spin column so as not to allow for any splashing.
-
-
-Centrifuge the spin columns for 1 minute at 6,000 x g (8,000 rpm). Remove the tubes from the centrifuge and check that all liquid has transferred from the spin column into the collection tube. If you see liquid still in the spin column, this means the filter in the column is clogged. Before proceeding to the next step, spin the clogged tubes for 15 seconds at 13,000 x g (12,700 rpm). This should fix the problem. If not, aspirate off and discard the supernatant that is in the spin column with a pipette before proceeding. Discard the flowthrough into the hazardous waste container.  Re-use the spin column and collection tube. 
-
-
-Second wash, add 500 µL of Buffer AW2 to each of the spin columns.  
-
-
-Centrifuge the spin columns for 2 minutes at 20,000 x g (14,000 rpm) to dry membranes. When removing the spin columns from the centrifuge, be careful not to let the flowthrough come into contact with the spin column. If this happens, do a 15 second spin at the same speed to dry the column. Discard the flowthrough per step 24.  
-
-
-After washing with Buffer AW2, the spin column membrane is usually only slightly colored. In the case the membrane remains significantly colored after the final washing with Buffer AW2, add 500 µL of 96%–100% EtOH (use molecular grade EtOH) to the spin column and centrifuge the spin columns for 2 minutes at 20,000 x g (14,000 rpm) to dry membrane. Be careful not to let the flowthrough come into contact with the spin column. If this happens then do a 15 second spin at the same speed to dry the column. Discard the flowthrough into the container for guanidine hydrochloride/EtOH hazardous waste.  Discard the used collection tube.
-
-
-Transfer the spin column to a labeled 1.5 mL tube. This is the tube into which you will elute the DNA but it is not for -80 °C storage. 
-
-Caution: It is very important at this step to ensure that you transfer the correct spin column to the correctly labeled 1.5 mL tube. Double check that the identifying sample numbers match. 
-
-
-Pipette 100 µL of pre-heated (55°C) Buffer AE directly onto the membrane in each of the spin columns. Incubate 5-10 minutes at room temperature. 
-
-
-Centrifuge 1 minute at 6,000 g (8,000 rpm) to elute DNA. 
-
-
-Repeat steps 29 and 30 again, using the same 1.5 mL tube and spin column set up. Remove the spin column and dispose of it. Cap the 1.5 mL tubes.
-
-
-Carefully transfer the template DNA from the 1.5 mL tube into a labeled cryogenic screw-cap tube. It is very important at this step that you transfer the template DNA from the 1.5 mL tube to the correctly labeled cryogenic screw-cap storage tube. Please list the genus and species name, collector name and collection number, PI initials, and the template DNA #. 
-
-
-Measure the DNA concentration, enter data on the CCG Lab CryoCollection database, and store the template DNA in the minus 20°C freezer until ready to place in the CCG minus 80°C freezer. Store the DNA extractions at minus 80°C to keep the DNA from degrading.  The CCG Lab offers cryogenic labels and cryogenic storage boxes for this purpose.
-
-Reminder: All liquid waste containing guanidine hydrochloride and/or EtOH must be disposed of in the guanidine hydrochloride/EtOH hazardous waste container. 
+10. Remove tubes and check that the dried tissue is ground to a fine powder (or the fresh tissue is ground well).  Repeat homogenization step once as required. If unground tissue remains, it may be necessary to reduce the total amount of Buffer AE used in the DNA elution. 
+11. Spin down samples thoroughly. 
+   {: .note }
+Note that dried plant tissue may stick to tube lids due to static cling; open these tubes very carefully. If AP1 was added prior to homogenization, additional spin time may be necessary to reduce foaming.
+12. Add 400 µL Buffer AP1 (if not previously included) and 4 µL RNaseA.
+13. Vigorously vortex the tubes (so no tissue clumps are visible).
+14. Incubate 10+ minutes @ 65°C. Invert to mix 2–3 times during incubation. 
+   {: .note }
+If you have unground tissue, you can incubate the tubes at 65°C for up to 30 minutes, be sure to mix 2 or 3 times every 10 minutes.
+15. Spin down tubes.
+16. Add 130 µL Buffer P3. Vortex briefly and spin.
+17. Incubate 5 min on ice. This step precipitates detergent from the lysis buffer, proteins, and polysaccharides. You can incubate the tubes for up to 30 mins.
+18. Centrifuge 5 min @ 20,000 rcf.
+19. Transfer supernatant to a new QIAshredder Mini spin column (lilac) in a 2 mL collection tube.
+20. Centrifuge 2 min @ 20,000 rcf. This step filters out most precipitates and cell debris.
+21. Transfer flowthrough into a new 1.5 mL tube, taking care not to disturb the debris pellet at the bottom of the collection tube.  Typically 450 µL of lysate is recovered. Dispose of the used lilac spin column and used collector tube.
+22. Add 1.5 volumes Buffer AW1. Pipette or invert to mix. A precipitate may form after adding Buffer AW1, but this will not affect the DNeasy procedure.
+23. Pipette 650 µL of the mixture into a new DNeasy Mini spin column (clear) placed in a 2 mL collection tube.
+24. Centrifuge 1 min @ 6,000 rcf. Discard flowthrough into guanidine hydrochloride/EtOH hazardous waste container. **Reuse the collection tube.**
+25. Repeat steps 23 and 24 with the remaining mixture. Discard the used collection tube.
+26. Transfer the DNeasy Mini spin column to a new 2 mL collection tube.
+27. Add 500 µL Buffer AW2.
+28. Centrifuge 1 minute @ 6,000 rcf.
+29. Verify that all liquid has moved from the spin column into the collection tube. If you see liquid still in the spin column, this means the filter in the column is clogged. Spin any clogged tubes 15 seconds @ 13,000 rcf. Pipette off and discard any supernatant still remaining in their spin columns before proceeding. Discard the flowthrough into the hazardous waste container. Re-use the spin column and collection tube.
+30. Add 500 µL Buffer AW2.
+31. Centrifuge 2 minutes @ 20,000 rcf. Discard flowthrough.
+32. Centrifuge 15 seconds @ 20,000 rcf to dry the filter. Discard any remaining flowthrough.
+33. **If the filter membrane remains significantly colored after the final washing with Buffer AW2:** Add 500 µL molecular grade EtOH to the spin column and centrifuge 2 minutes @ 20,000 rcf. Be careful not to let the flowthrough come into contact with the spin column. If this happens then do a 15 second spin at the same speed to dry the column. Discard the flowthrough into the container for guanidine hydrochloride/EtOH hazardous waste.  Discard the used collection tube.
+34. Transfer spin column to a labeled 1.5 mL locking or 2 mL cryo tube.
+35. Add 100 µL pre-heated (55°C) Buffer AE directly onto the filter membrane.
+36. Incubate 5-10 minutes at room temperature.
+37. Centrifuge 1 minute @ 6,000 rcf to elute DNA.
+38. Repeat steps 35–37, using the same spin column and sample tube. Remove the spin column and discard.
+39. Proceed with QC.
 
 {: .warning }
 <img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/GHS-corrosive.png?raw=true'
