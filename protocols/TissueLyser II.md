@@ -16,20 +16,20 @@ Homogenization settings will vary considerably depending on sample type, preserv
 ### Quick start guide
 
 1. Load the adapters with tubes or plates as required. Ensure samples are distributed evenly between shaker arms, and across each plate/tube holder. 
-<img width="2364" height="992" alt="image" src="https://github.com/user-attachments/assets/3ff0df06-2083-4354-8fa0-fd320d37a2f5" />
-<img width="2395" height="973" alt="image" src="https://github.com/user-attachments/assets/48a58d46-9901-403c-a45c-55d76f2ecfab" />
+<img width="2364" height="992" alt="image" src="https://github.com/user-attachments/assets/a3117ce5-cf84-41ef-acd4-42e157a96aad" />
+<img width="2395" height="973" alt="image" src="https://github.com/user-attachments/assets/1311695d-66d9-4711-a949-52bada1a6f42" />
 
 
 2. Lift up the plastic hood covering the shaker clamps.
 
-3. Ensure the point of the locking pins (A) is lifted out of their grooves. Loosen the handwheels (B) until the clamps (C) are sufficiently loose to allow for insertion of the adapter assemblies. Note that when a locking pin is disengaged, its handwheel should loosen easily and will not click when tightened. 
-<img width="608" height="402" alt="image" src="https://github.com/user-attachments/assets/f7acd8dd-5d9c-4eb1-8053-f0c0286be4f4" />
+3. Ensure the point of the locking pins are lifted out of their grooves. Loosen the handwheels until the clamps are sufficiently loose to allow for insertion of the adapter assemblies. Note that when a locking pin is disengaged, its handwheel should loosen easily and will not click when tightened. If a previously tightened handwheel will not loosen _and the locking pin is disengaged,_ it may be necessary to tighten it slightly allow the internal locking mechanism to disengage before loosening.
+<img width="2383" height="1579" alt="image" src="https://github.com/user-attachments/assets/4d57752b-e760-431b-97c9-538b8c21236b" />
 
 4. Insert the adapter sets, ensuring that the round "bumps" engage with the slots on the shaker arms.
 <img width="2383" height="2844" alt="image" src="https://github.com/user-attachments/assets/20c2c984-ec36-48fe-97ec-6a8687829d62" />
 
-5. Turn the locking pins (A) so that their points fall into the grooves. Tighten the handwheels (B) until the clamps (C) hold the adapter assemblies securely. Note that when a locking pin is engaged, its handwheel will not loosen and will click when tightened.
-<img width="608" height="402" alt="image" src="https://github.com/user-attachments/assets/f7acd8dd-5d9c-4eb1-8053-f0c0286be4f4" />
+5. Turn the locking pins so that their points fall into their grooves. Tighten the handwheels until the clamps hold the adapter assemblies securely. Note that when a locking pin is engaged, its handwheel will not loosen and will click when tightened.
+<img width="2383" height="1579" alt="image" src="https://github.com/user-attachments/assets/4d57752b-e760-431b-97c9-538b8c21236b" />
 
 {: .caution }
 Do not over-tighten the clamps; this can crush your tubes!
@@ -38,8 +38,8 @@ Do not over-tighten the clamps; this can crush your tubes!
 
 7. Turn on the machine using the rocker switch on the rear of the machine by the power cord.
 
-8. Press the PROG button (A) to cycle through the machine's presets. If a suitable preset exists, press START (D) to run that preset. If no suitable preset exists, use the  controls (B, C) to adjust frequency and time as required. 
-<img width="610" height="481" alt="image" src="https://github.com/user-attachments/assets/b7f1a42f-e55e-43fa-9388-3db3e31b5bbf" />
+8. Press the PROG button to cycle through the machine's presets. If a suitable preset exists, press START to run that preset. If no suitable preset exists, use the  controls to adjust frequency and time as required. 
+<img width="2395" height="1535" alt="image" src="https://github.com/user-attachments/assets/ff4e815b-6830-419c-a3a0-fbbbe184d67d" />
 
 
 9. When lysing is complete, remove the adapter assemblies and power down the machine.
