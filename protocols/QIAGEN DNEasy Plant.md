@@ -45,7 +45,7 @@ If possible, use material taken from young, freshly formed leaves since they con
 6. Add approximately ¼ tube of homogenization beads and securely tighten the cap.
 
 {: .note }
-Dry, homogenized plant tissue (especially those with fine/fuzzy trichomes) tends to misbehave due to static electricity generated during homogenization. Powdery fragments often stick to tube lids even after being spun down, which can lead to material escaping the tube when the lid is removed. Adding the AP1 buffer (Step 10) to the sample tubes _prior to homogenization_ may reduce this tendency and the risk of cross-contamination.
+Dry, homogenized plant tissue (especially from samples with fine/fuzzy trichomes) tends to misbehave due to static electricity generated during homogenization. Powder and small fragments often stick to tube lids even after being spun down, which can lead to material escaping the tube when the lid is removed. Adding the AP1 buffer (Step 10) to the sample tubes _prior to homogenization_ may reduce this tendency and the risk of cross-contamination.
 
 8. Load tubes into the [TissueLyser (click for detailed instructions](https://calacademy-genomics.github.io/protocols/TissueLyser%20II.html).
 9. Select the desired preset or set a custom program. A typical setting for plant tissue disruption is two 1-2 min cycles @ 20-30 Hz. 
