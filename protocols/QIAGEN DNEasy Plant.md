@@ -13,6 +13,7 @@ This protocol is modified from the [QIAGEN Plant Mini Kit Quick Start Protocol](
 If possible, use material taken from young, freshly formed leaves since they contain more cells per weight and will result in higher yields. If using dried material, use 20 mg of tissue. If using fresh material, use 100 mg of tissue.
 
 ### Gather the following materials _(per sample):_
+
 #### Consumables
 - (1) Sample storage tube, standard screw-cap, 2 mL, labeled
 - (1) Sample storage tube, cryogenic screw-cap, labeled
@@ -21,6 +22,7 @@ If possible, use material taken from young, freshly formed leaves since they con
 - (1) QIAGEN DNEasy Mini spin column, labeled
 - (3) QIAGEN collection tubes
 - Homogenization beads, 2mm glass (soft tissues), 2.3 mm zirconia (tough tissues), or steel bearings (_very_ stubborn tissues)
+
 #### Reagent aliquots, labeled (including your initials):
 - RNAse A
 - Buffer AP1 
