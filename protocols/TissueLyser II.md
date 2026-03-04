@@ -19,10 +19,12 @@ Homogenization settings will vary considerably depending on sample type, preserv
 <img width="1182" height="496" alt="image" src="https://github.com/user-attachments/assets/a3117ce5-cf84-41ef-acd4-42e157a96aad" />
 <img width="1197" height="486" alt="image" src="https://github.com/user-attachments/assets/1311695d-66d9-4711-a949-52bada1a6f42" />
 
-
 2. Lift up the plastic hood covering the wiggle mechanism.
 
-3. Ensure the point of the shaker clamp locking pins are lifted out of their grooves. Loosen the handwheels until the clamps are sufficiently loose to allow for insertion of the adapter assemblies. Note that when a locking pin is disengaged, its handwheel should loosen easily and will not click when tightened. If a previously tightened handwheel will not loosen _and the locking pin is disengaged,_ it may be necessary to tighten it slightly allow the internal locking mechanism to disengage before loosening.
+3. Ensure the point of the shaker clamp locking pins are lifted out of their grooves. Loosen the handwheels until the clamps are sufficiently loose to allow for insertion of the adapter assemblies. Note that when a locking pin is disengaged, its handwheel should loosen easily and will not click when tightened. 
+
+{: .note }
+If a previously tightened handwheel will not loosen _and its locking pin is disengaged,_ it may be necessary to tighten it slightly to allow its internal ratchet to disengage before loosening.
 <img width="1191" height="789" alt="image" src="https://github.com/user-attachments/assets/4d57752b-e760-431b-97c9-538b8c21236b" />
 
 4. Insert the adapter sets, ensuring that the round "bumps" engage with the slots on the shaker arms.
@@ -35,10 +37,9 @@ Do not over-tighten the clamps; this can crush your tubes!
 
 6. Close the plastic hood.
 
-7. Turn on the machine using the rocker switch on the rear of the machine by the power cord.
+7. Power on the machine using the rocker switch on the rear of the machine by the power cord.
 
 8. Press the PROG button to cycle through the machine's presets. If a suitable preset exists, press START to run that preset. If no suitable preset exists, use the  controls to adjust frequency and time as required. 
 <img width="1197" height="767" alt="image" src="https://github.com/user-attachments/assets/ff4e815b-6830-419c-a3a0-fbbbe184d67d" />
 
-
-9. When lysing is complete, remove the adapter assemblies and power down the machine.
+9. When lysing is complete, remove the adapter assemblies (removal is the opposite of installation). Leave the machine powered down with clamps empty and hood closed.
