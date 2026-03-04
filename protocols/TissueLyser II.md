@@ -20,16 +20,15 @@ Homogenization settings will vary considerably depending on sample type, preserv
 <img width="1197" height="486" alt="image" src="https://github.com/user-attachments/assets/1311695d-66d9-4711-a949-52bada1a6f42" />
 
 
-2. Lift up the plastic hood covering the shaker clamps.
+2. Lift up the plastic hood covering the wiggle mechanism.
 
-3. Ensure the point of the locking pins are lifted out of their grooves. Loosen the handwheels until the clamps are sufficiently loose to allow for insertion of the adapter assemblies. Note that when a locking pin is disengaged, its handwheel should loosen easily and will not click when tightened. If a previously tightened handwheel will not loosen _and the locking pin is disengaged,_ it may be necessary to tighten it slightly allow the internal locking mechanism to disengage before loosening.
+3. Ensure the point of the shaker clamp locking pins are lifted out of their grooves. Loosen the handwheels until the clamps are sufficiently loose to allow for insertion of the adapter assemblies. Note that when a locking pin is disengaged, its handwheel should loosen easily and will not click when tightened. If a previously tightened handwheel will not loosen _and the locking pin is disengaged,_ it may be necessary to tighten it slightly allow the internal locking mechanism to disengage before loosening.
 <img width="1191" height="789" alt="image" src="https://github.com/user-attachments/assets/4d57752b-e760-431b-97c9-538b8c21236b" />
 
 4. Insert the adapter sets, ensuring that the round "bumps" engage with the slots on the shaker arms.
 <img width="1191" height="789" alt="image" src="https://github.com/user-attachments/assets/20c2c984-ec36-48fe-97ec-6a8687829d62" />
 
 5. Turn the locking pins so that their points fall into their grooves. Tighten the handwheels until the clamps hold the adapter assemblies securely. Note that when a locking pin is engaged, its handwheel will not loosen and will click when tightened.
-<img width="1191" height="789" alt="image" src="https://github.com/user-attachments/assets/4d57752b-e760-431b-97c9-538b8c21236b" />
 
 {: .caution }
 Do not over-tighten the clamps; this can crush your tubes!
