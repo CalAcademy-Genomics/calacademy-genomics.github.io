@@ -22,10 +22,10 @@ Homogenization settings will vary considerably depending on sample type, preserv
 2. Lift up the plastic hood covering the wiggle mechanism.
 
 3. Ensure the point of the shaker clamp locking pins are lifted out of their grooves. Loosen the handwheels until the clamps are sufficiently loose to allow for insertion of the adapter assemblies. Note that when a locking pin is disengaged, its handwheel should loosen easily and will not click when tightened. 
+<img width="1191" height="789" alt="image" src="https://github.com/user-attachments/assets/4d57752b-e760-431b-97c9-538b8c21236b" />
 
 {: .note }
 If a previously tightened handwheel will not loosen _and its locking pin is disengaged,_ it may be necessary to tighten it slightly to allow its internal ratchet to disengage before loosening.
-<img width="1191" height="789" alt="image" src="https://github.com/user-attachments/assets/4d57752b-e760-431b-97c9-538b8c21236b" />
 
 4. Insert the adapter sets, ensuring that the round "bumps" engage with the slots on the shaker arms.
 <img width="1191" height="789" alt="image" src="https://github.com/user-attachments/assets/20c2c984-ec36-48fe-97ec-6a8687829d62" />
