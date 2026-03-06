@@ -3,6 +3,6 @@ layout: default
 title: TapeStation
 parent: Quantification
 ancestor: Protocols
-redirect_to: /calacademy-genomics.github.io/protocols/tapestation.md
+redirect_to: https://calacademy-genomics.github.io/equipment/tapestation.html
 search_exclude: true
 ---
