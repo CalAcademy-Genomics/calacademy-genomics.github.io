@@ -2,7 +2,9 @@
 layout: default
 title: NanoDrop
 parent: Quantification
+parent: Lab Equipment
 ancestor: Protocols
+ancestor: Lab Equipment
 ---
 
 # Checking DNA purity with the NanoDrop 2000C
