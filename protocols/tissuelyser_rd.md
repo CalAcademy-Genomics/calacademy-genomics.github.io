@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TissueLyser II
+title: TissueLyser II Homogenizer
 parent: Extraction
 ancestor: Protocols
 redirect_to: https://calacademy-genomics.github.io/equipment/TissueLyser%20II.html
