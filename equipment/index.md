@@ -9,5 +9,4 @@ has_children: true
 This section includes manufacturer user manuals, quick-start guides, and "tips and tricks" for some of the most commonly used gear in the CCG.
 
 {: .caution }
-**Consult with CCG staff for training before using any equipment with which you are unfamiliar.** Additionally, review the manufacturer’s instructions.
-
+Your samples are precious, and laboratory equipment is delicate and expensive. Consult with CCG staff (and review the manufacturer's instructions) before using any device with which you are unfamiliar.
