@@ -1,6 +1,6 @@
 ---
 layout: default
-title: qSonica
+title: qSonica Sonicator
 parent: Lab Equipment
 ancestor: Lab Equipment
 ---
