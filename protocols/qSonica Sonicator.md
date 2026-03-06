@@ -1,8 +1,8 @@
 ---
 layout: default
 title: qSonica
-parent: Library prep
-ancestor: Equipment
+parent: Lab Equipment
+ancestor: Lab Equipment
 ---
 
 # DNA shearing with the qSonica Sonicator
