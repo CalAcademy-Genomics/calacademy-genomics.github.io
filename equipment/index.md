@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lab Equipment Manuals & Guides
+title: Lab Equipment
 nav_order: 4
 has_children: true
 ---
