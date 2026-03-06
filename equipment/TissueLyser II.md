@@ -1,8 +1,8 @@
 ---
 layout: default
-title: TissueLyser II
-parent: Extraction
-ancestor: Protocols
+title: TissueLyser II Homogenizer
+parent: Lab Equipment
+ancestor: Lab Equipment
 ---
 
 # Sample Homogenization with the TissueLyser II
