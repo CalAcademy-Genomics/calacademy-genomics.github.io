@@ -1,9 +1,9 @@
 ---
 layout: default
-title: [TapeStation](https://calacademy-genomics.github.io/equipment/tapestation.html)
+title: TapeStation
 parent: Quantification
 ancestor: Protocols
 redirect_to: https://calacademy-genomics.github.io/equipment/tapestation.html
 ---
 
-Test.
+You should be redirected automatically. If nothing happens, click [here](https://calacademy-genomics.github.io/equipment/tapestation.html).
