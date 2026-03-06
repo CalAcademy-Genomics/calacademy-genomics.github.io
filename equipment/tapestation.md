@@ -1,9 +1,7 @@
 ---
 layout: default
 title: TapeStation
-parent: Quantification
-ancestor: Protocols
-ancestor: Lab Equipment
+parent: Lab Equipment
 ---
 
 # Checking DNA fragment length with the TapeStation
