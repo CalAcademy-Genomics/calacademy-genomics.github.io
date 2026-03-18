@@ -4,13 +4,8 @@ layout: default
 nav_order: 5
 ---
 
-# CCG Sample Location Tracker
-{: .no_toc }
-
-Track the physical location of samples within CCG freezers. V 0.002
-{: .fs-6 .fw-300 }
-
-<div markdown="0">
+<h1>CCG Sample Location Tracker V 0.003 </h1>
+<p style="font-size:1.1rem; color:#666;">Track the physical location of samples within CCG freezers.</p>
 
 <style>
   .tracker-form { background: #f5f6fa; padding: 1.5rem; border-radius: 8px; margin-bottom: 1.5rem; }
@@ -18,15 +13,16 @@ Track the physical location of samples within CCG freezers. V 0.002
   .tracker-form input, .tracker-form select, .tracker-form textarea {
     width: 100%; padding: 0.4rem; margin-top: 0.25rem;
     border: 1px solid #ccc; border-radius: 4px; font-size: 0.95rem;
+    box-sizing: border-box;
   }
   .tracker-form button { margin-top: 1rem; padding: 0.5rem 1.25rem; border: none; border-radius: 4px; cursor: pointer; font-size: 0.95rem; }
   .btn-add { background: #2869e6; color: #fff; }
   .btn-add:hover { background: #1b4fb5; }
-  .btn-export { background: #27ae60; color: #fff; }
+  .btn-export { background: #27ae60; color: #fff; border: none; border-radius: 4px; padding: 0.4rem 1rem; cursor: pointer; }
   .btn-export:hover { background: #1e8e4e; }
-  .btn-import { background: #8e44ad; color: #fff; }
+  .btn-import { background: #8e44ad; color: #fff; border: none; border-radius: 4px; padding: 0.4rem 1rem; cursor: pointer; }
   .btn-import:hover { background: #6c3483; }
-  .btn-clear { background: #e67e22; color: #fff; }
+  .btn-clear { background: #e67e22; color: #fff; border: none; border-radius: 4px; padding: 0.4rem 1rem; cursor: pointer; }
   .btn-clear:hover { background: #d35400; }
   .btn-danger { background: #e74c3c; color: #fff; font-size: 0.8rem; padding: 0.25rem 0.6rem; border: none; border-radius: 4px; cursor: pointer; }
   .btn-danger:hover { background: #c0392b; }
@@ -54,13 +50,16 @@ Track the physical location of samples within CCG freezers. V 0.002
     <div>
       <label for="freezer-type">Freezer Type</label>
       <select id="freezer-type">
-        <option value="-80">-80 C</option>
-        <option value="-20">-20 C</option>
+        <option value="" selected disabled>Select freezer type</option>
+        <option value="-20">-20C</option>
+        <option value="-80">-80C</option>
       </select>
     </div>
     <div>
       <label for="freezer-id">Freezer</label>
-      <select id="freezer-id"></select>
+      <select id="freezer-id">
+        <option value="" selected disabled>Select freezer type first</option>
+      </select>
     </div>
     <div>
       <label for="shelf">Shelf</label>
@@ -86,8 +85,8 @@ Track the physical location of samples within CCG freezers. V 0.002
   <input type="text" id="search" placeholder="Search samples..." />
   <select id="filter-freezer-type">
     <option value="">All freezer types</option>
-    <option value="-80">-80 C only</option>
-    <option value="-20">-20 C only</option>
+    <option value="-20">-20C only</option>
+    <option value="-80">-80C only</option>
   </select>
   <span class="count-badge" id="count-badge">0 samples</span>
   <button class="btn-export" id="btn-export" type="button">Export CSV</button>
@@ -114,17 +113,17 @@ Track the physical location of samples within CCG freezers. V 0.002
 </table>
 
 <script>
-(function() {
+document.addEventListener('DOMContentLoaded', function() {
   var FREEZERS = {
-    '-80': [
-      { id: '1', label: '-80 C Freezer 1' },
-      { id: '2', label: '-80 C Freezer 2' },
-      { id: '3', label: '-80 C Freezer 3' }
-    ],
     '-20': [
-      { id: 'A', label: '-20 C Freezer A' },
-      { id: 'B', label: '-20 C Freezer B' },
-      { id: 'C', label: '-20 C Freezer C' }
+      { id: 'A', label: 'A' },
+      { id: 'B', label: 'B' },
+      { id: 'C', label: 'C' }
+    ],
+    '-80': [
+      { id: '1', label: '1' },
+      { id: '2', label: '2' },
+      { id: '3', label: '3' }
     ]
   };
 
@@ -147,6 +146,15 @@ Track the physical location of samples within CCG freezers. V 0.002
     var type = document.getElementById('freezer-type').value;
     var sel = document.getElementById('freezer-id');
     sel.innerHTML = '';
+    if (!type) {
+      var placeholder = document.createElement('option');
+      placeholder.value = '';
+      placeholder.disabled = true;
+      placeholder.selected = true;
+      placeholder.textContent = 'Select freezer type first';
+      sel.appendChild(placeholder);
+      return;
+    }
     var list = FREEZERS[type] || [];
     for (var i = 0; i < list.length; i++) {
       var opt = document.createElement('option');
@@ -159,14 +167,19 @@ Track the physical location of samples within CCG freezers. V 0.002
   function addSample() {
     var sampleId = document.getElementById('sample-id').value.trim();
     var species = document.getElementById('species').value.trim();
+    var freezerType = document.getElementById('freezer-type').value;
+    var freezerId = document.getElementById('freezer-id').value;
+
     if (!sampleId) { alert('Sample ID is required.'); return; }
+    if (!freezerType) { alert('Please select a freezer type.'); return; }
+    if (!freezerId) { alert('Please select a freezer.'); return; }
 
     var entry = {
       id: Date.now().toString(36) + Math.random().toString(36).slice(2, 6),
       sampleId: sampleId,
       species: species,
-      freezerType: document.getElementById('freezer-type').value,
-      freezerId: document.getElementById('freezer-id').value,
+      freezerType: freezerType,
+      freezerId: freezerId,
       shelf: document.getElementById('shelf').value,
       box: document.getElementById('box').value.trim(),
       notes: document.getElementById('notes').value.trim(),
@@ -218,39 +231,37 @@ Track the physical location of samples within CCG freezers. V 0.002
     for (var i = 0; i < filtered.length; i++) {
       var s = filtered[i];
       var tr = document.createElement('tr');
+      var deleteBtn = document.createElement('button');
+      deleteBtn.className = 'btn-danger';
+      deleteBtn.type = 'button';
+      deleteBtn.textContent = 'Remove';
+      deleteBtn.setAttribute('data-delete-id', s.id);
 
       tr.innerHTML =
         '<td>' + esc(s.sampleId) + '</td>' +
         '<td><em>' + esc(s.species) + '</em></td>' +
-        '<td>' + esc(s.freezerType) + ' C</td>' +
+        '<td>' + esc(s.freezerType) + 'C</td>' +
         '<td>' + esc(s.freezerId) + '</td>' +
         '<td>' + esc(s.shelf) + '</td>' +
         '<td>' + esc(s.box) + '</td>' +
         '<td>' + esc(s.notes) + '</td>' +
         '<td>' + esc(s.dateAdded) + '</td>' +
-        '<td><button class="btn-danger" type="button" data-delete-id="' + esc(s.id) + '">Remove</button></td>';
+        '<td></td>';
 
+      tr.lastChild.appendChild(deleteBtn);
       tbody.appendChild(tr);
     }
-
-    // attach delete handlers via delegation
-    tbody.onclick = function(e) {
-      var btn = e.target;
-      if (btn.hasAttribute('data-delete-id')) {
-        deleteSample(btn.getAttribute('data-delete-id'));
-      }
-    };
 
     document.getElementById('count-badge').textContent = filtered.length + ' of ' + samples.length + ' samples';
   }
 
   function exportCSV() {
     if (!samples.length) { alert('No samples to export.'); return; }
-    var headers = ['Sample ID','Species','Freezer Type','Freezer','Shelf','Box/Position','Notes','Date Added'];
+    var hdrs = ['Sample ID','Species','Freezer Type','Freezer','Shelf','Box/Position','Notes','Date Added'];
     var rows = samples.map(function(s) {
       return [s.sampleId, s.species, s.freezerType, s.freezerId, s.shelf, s.box, s.notes, s.dateAdded];
     });
-    var all = [headers].concat(rows);
+    var all = [hdrs].concat(rows);
     var csv = all.map(function(r) {
       return r.map(function(c) { return '"' + String(c).replace(/"/g, '""') + '"'; }).join(',');
     }).join('\n');
@@ -258,7 +269,9 @@ Track the physical location of samples within CCG freezers. V 0.002
     var a = document.createElement('a');
     a.href = URL.createObjectURL(blob);
     a.download = 'ccg_samples_' + new Date().toISOString().slice(0, 10) + '.csv';
+    document.body.appendChild(a);
     a.click();
+    document.body.removeChild(a);
   }
 
   function parseCSVLine(line) {
@@ -312,18 +325,24 @@ Track the physical location of samples within CCG freezers. V 0.002
     reader.readAsText(file);
   }
 
-  // ── Wire up all event listeners ──
-  document.getElementById('btn-add-sample').addEventListener('click', addSample);
+  // ── Wire up event listeners ──
+  document.getElementById('btn-add-sample').addEventListener('click', function(e) {
+    e.preventDefault();
+    addSample();
+  });
+
   document.getElementById('freezer-type').addEventListener('change', updateFreezerOptions);
   document.getElementById('search').addEventListener('input', renderTable);
   document.getElementById('filter-freezer-type').addEventListener('change', renderTable);
   document.getElementById('btn-export').addEventListener('click', exportCSV);
+
   document.getElementById('btn-import').addEventListener('click', function() {
     document.getElementById('import-file').click();
   });
   document.getElementById('import-file').addEventListener('change', function() {
     importCSV(this);
   });
+
   document.getElementById('btn-clear').addEventListener('click', function() {
     if (!confirm('Delete ALL samples? This cannot be undone.')) return;
     samples = [];
@@ -331,9 +350,17 @@ Track the physical location of samples within CCG freezers. V 0.002
     renderTable();
   });
 
+  // delete button delegation on tbody
+  document.getElementById('sample-tbody').addEventListener('click', function(e) {
+    var btn = e.target;
+    if (btn.hasAttribute('data-delete-id')) {
+      deleteSample(btn.getAttribute('data-delete-id'));
+    }
+  });
+
   // sortable column headers
-  var headers = document.querySelectorAll('#sample-table th[data-sort]');
-  for (var h = 0; h < headers.length; h++) {
+  var ths = document.querySelectorAll('#sample-table th[data-sort]');
+  for (var h = 0; h < ths.length; h++) {
     (function(header) {
       header.addEventListener('click', function() {
         var field = header.getAttribute('data-sort');
@@ -341,10 +368,10 @@ Track the physical location of samples within CCG freezers. V 0.002
         else { sortField = field; sortAsc = true; }
         renderTable();
       });
-    })(headers[h]);
+    })(ths[h]);
   }
 
-  // allow Enter key to submit form
+  // Enter key submits form
   document.getElementById('add-form').addEventListener('keydown', function(e) {
     if (e.key === 'Enter' && e.target.tagName !== 'TEXTAREA') {
       e.preventDefault();
@@ -353,9 +380,6 @@ Track the physical location of samples within CCG freezers. V 0.002
   });
 
   // ── Initialize ──
-  updateFreezerOptions();
   renderTable();
-})();
+});
 </script>
-
-</div>
