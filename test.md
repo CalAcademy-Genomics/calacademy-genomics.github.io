@@ -7,7 +7,7 @@ nav_order: 5
 # CCG Sample Location Tracker
 {: .no_toc }
 
-Track the physical location of samples within CCG freezers.
+Track the physical location of samples within CCG freezers. V 0.002
 {: .fs-6 .fw-300 }
 
 <div markdown="0">
