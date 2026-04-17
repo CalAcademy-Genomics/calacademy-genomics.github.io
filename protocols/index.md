@@ -8,6 +8,8 @@ has_children: true
 
 These are some of the most commonly used teaching protocols used by CCG researchers. Many of these are modified from manufacturer protocols, but adapted to reflect the CCG's layout and equipment.
 
+If you are a Cal Academy researcher and would like to submit a comment, correction, or your own lab protocol for addition to the repo, please email CCG staff!
+
 ### Warnings, Cautions, Notes, and Tips
 
 {: .warning }
