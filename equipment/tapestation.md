@@ -39,10 +39,13 @@ The TapeStation is an automated electrophoresis solution for quality control of 
 4. Take out the appropriate number of strip tubes and tube caps from your lab’s drawer. **Use only USA Scientific strip tubes that we stock in the lab.**
 5. Vortex and spin down buffer, ladder, and samples.
 
-|                    | HS D1000 ScreenTape | gDNA ScreenTape |
-|:-------------------|:--------------------|:----------------|
-| Sample buffer (µL) | 2                   | 10              |
-| Sample/Ladder (µL) | 2                   | 1               |
+  |                       | HS D1000 ScreenTape | gDNA ScreenTape |
+  |:----------------------|:--------------------|:----------------|
+  | Sample buffer (µL)    | 2                   | 10              |
+  | Sample or Ladder (µL) | 2                   | 1               |
+
+  {: .note }
+  Samples can be diluted using molecular-grade water to the target volume of 2 µL. In the CCG, we commonly use 1 µL of DNA sample and 1 µL of Millipore water.
 
 6. Add sample buffer to each well of the strip tube.
 7. If using a ladder, add a DNA ladder to the first tube (A1).
