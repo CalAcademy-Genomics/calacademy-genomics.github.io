@@ -21,7 +21,7 @@ Although the NanoDrop spectrophotometer will display a concentration value, this
 6. Wipe down the pedestal with dry Kimwipe.
 7. Type your SAMPLE ID for your first sample in the top right corner.
 8. Gently mix your sample first for accurate concentration reading.
-9. Load 2 µL of your sample onto the pedestal. Lower the arm and click MEASURE.
+9. Load 1–2 µL of your sample onto the pedestal. Lower the arm and click MEASURE.
 10. You will be asked to name the NanoDrop workbook you are creating. Navigate to your Molecular folder, edit filename, and save workbook (leave as .twbk file).
     Your DNA concentration value will appear in the top right corner of the screen with the units in ng/µL. An ideal DNA concentration for PCR will be between 25–100 ng/µL. Ideal A260/280 and A260/230 ratios will be about 2.0.
 
