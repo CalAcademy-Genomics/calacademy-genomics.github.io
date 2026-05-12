@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NanoDrop
+title: NanoDrop 2000C
 parent: Quantification
 parent: Lab Equipment
 ancestor: Protocols
