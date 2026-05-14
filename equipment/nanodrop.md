@@ -54,12 +54,12 @@ Although NanoDrop spectrophotometers will display a concentration value, this is
 For samples with DNA concentrations >100 ng/µL, a dilution of 25 ng/µL should be made to work with for PCR.
 
 {: .note }
-| Light condition | Meaning                      |
-|:----------------|:-----------------------------|
-|Off              |Powered off/Energy Saver Mode |
-| Breathing white light | Powering on or initializing |
-| Constant white light | Ready/standby| 
-| Sweeping blue light | Measuring |
-|Constant blue light | Diagnostic - pass result. Measurement does not trigger Acclaro alert or Acclaro contaminant |
-| Constant amber light | Diagnostic - conditional pass result. Measurement triggers Acclaro alert or Acclaro contaminant |
-| Blinking amber light | Diagnostic - fail result |
+   | Light condition | Meaning                        |
+   |:----------------|:-------------------------------|
+   |Off              | Powered off/Energy Saver Mode  |
+   | Breathing white | Powering on or initializing    |
+   | Constant white  | Ready/standby                  | 
+   | Sweeping blue   | Measuring                      |
+   | Constant blue   | Diagnostic - pass.             |
+   | Constant amber  | Diagnostic - conditional pass. |
+   | Blinking amber  | Diagnostic - fail result       |
