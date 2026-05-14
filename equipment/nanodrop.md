@@ -16,15 +16,18 @@ The CCG currently maintains two NanoDrop devices: the newer NanoDrop Ultra and a
 Although NanoDrop spectrophotometers will display a concentration value, this is generally not considered an accurate measurement. Nucleic acid concentrations can be measured accurately using a fluorometer, such as the Qubit.
 
 ### Protocol
+#### Setup
 1. Power on the device.
    - **Ultra:** Press the vertical black button on the lower right side of the device and allow the instrument to conduct its routine verification of wavelength.
    - **2000C:** Power on the control computer and double-clock the "NanoDrop 2000C" icon on the desktop.
 2. Select the appropriate assay.
-   - **Ultra:** Select the "dsDNA" icon. On the "dsDNA Setup" menu, accept the default values or press "X."
+   - **Ultra:** Select the "dsDNA" icon. On the "dsDNA Setup" menu, accept the default values or press "X" to proceed to measurement.
    - **2000C:** With the group set to CLASSIC, click on the option for NUCLEIC ACID. Allow the instrument to conduct its routine verification of wavelength.
-3. Wipe down the pedestal with a clean, damp Kimwipe.
+3. Raise the device arm and wipe down the pedestal with a clean, damp Kimwipe. *Gently* lower the arm.
 4. To blank the instrument, raise the arm and load 1–2 µL of AE buffer  (or water, or TE buffer, whatever your DNA is resuspended in) onto the pedestal. Lower the arm and click BLANK.
-5. Wipe down the pedestal with dry Kimwipe.
+
+#### Data Collection
+5. Raise the armWipe down the pedestal with dry Kimwipe.
 6. Type your SAMPLE ID for your first sample in the top right corner.
 7. Gently mix your sample first for accurate concentration reading.
 8. Load 1–2 µL of your sample onto the pedestal. Lower the arm and click MEASURE.
