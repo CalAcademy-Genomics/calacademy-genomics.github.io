@@ -46,7 +46,6 @@ The TapeStation is an automated electrophoresis solution for quality control of 
 
   {: .note }
   Samples can be diluted using molecular-grade water to the target volume of 2 µL. In the CCG, we commonly use 1 µL of DNA sample and 1 µL of Millipore water.
-
 6. Add sample buffer to each well of the strip tube.
 7. If using a ladder, add a DNA ladder to the first tube (A1).
 8. Add sample to each sample tube.
