@@ -17,8 +17,8 @@ Although NanoDrop spectrophotometers will display a concentration value, this is
 
 ### Protocol
 1. Power on the device.
-   On the NanoDrop Ultra, press the vertical black button on the lower right side of the device.
-   Double-click on the NanoDrop 2000C software icon from the desktop.
+   - On the NanoDrop Ultra, press the vertical black button on the lower right side of the device.
+   - Double-click on the NanoDrop 2000C software icon from the desktop.
 2. With the group set to CLASSIC, click on the option for NUCLEIC ACID.
 3. Allow the instrument to conduct its routine verification of wavelength.
 4. Wipe down the pedestal with a clean, damp Kimwipe.
