@@ -1,19 +1,24 @@
 ---
 layout: default
-title: NanoDrop 2000C
+title: NanoDrop
 parent: Quantification
 parent: Lab Equipment
 ancestor: Protocols
 ancestor: Lab Equipment
 ---
 
-# Checking DNA purity with the NanoDrop 2000C
+# Checking DNA purity with the NanoDrop Spectrophotometer
 
 {: .note } 
-Although the NanoDrop spectrophotometer will display a concentration value, this is generally not considered an accurate measurement. Nucleic acid concentrations can be measured accurately using a Qubit fluorometer.
+The CCG currently maintains two NanoDrop devices: the newer NanoDrop Ultra and an older NanoDrop 2000C. Both function similarly, except that the Ultra is a self-contained unit with touchpad controls while the 2000C is operated by a separate computer.
+
+{: .note } 
+Although NanoDrop spectrophotometers will display a concentration value, this is generally not considered an accurate measurement. Nucleic acid concentrations can be measured accurately using a fluorometer, such as the Qubit.
 
 ### Protocol
-1. Double-click on the NanoDrop 2000C software icon from the desktop.
+1. Power on the device.
+   On the NanoDrop Ultra, press the vertical black button on the lower right side of the device.
+   Double-click on the NanoDrop 2000C software icon from the desktop.
 2. With the group set to CLASSIC, click on the option for NUCLEIC ACID.
 3. Allow the instrument to conduct its routine verification of wavelength.
 4. Wipe down the pedestal with a clean, damp Kimwipe.
