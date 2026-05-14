@@ -30,13 +30,11 @@ Although NanoDrop spectrophotometers will display a concentration value, this is
 5. Raise the device arm and wipe down the pedestal with dry Kimwipe.
 
    {: .note } 
-   Both NanoDrop instruments have an "Auto-Measure" feature, in which the instrument will take a new reading automatically every time the arm is lowered. 
-   - **Ultra:** If Auto-Measure is ON, the icon of a running man will be bright blue. If Auto-Measure is OFF, the icon will be dark.
-   - **2000C:** Auto-Measure!
+   The NanoDrop Ultra has an "Auto-Measure" feature, in which the instrument takes a new reading automatically every time the arm is lowered. If Auto-Naming is on (ON by default; deactivate in the dsDNA Setup menu) it will also update the sample name (Sample 1, Sample 2, etc). Auto-Measure is enabled by default but can be easily toggled OFF during an experiment by pressing the running man icon. If Auto-Measure is ON, the running man icon will be bright blue. If Auto-Measure is OFF, the icon will be dark.
    
 7. Type your SAMPLE ID for your first sample in the top right corner.
 8. Gently mix your sample first for accurate concentration reading.
-9. Load 1–2 µL of your sample onto the pedestal. Lower the arm and click MEASURE.
+9. Load 1–2 µL of your sample onto the pedestal, ensuring the small "eye" of the pedestal is covered. Lower the device arm. If using the 2000C (or Ultra with Auto-Measure OFF), click MEASURE.
 
    {: .note } 
    Both NanoDrop devices save measurement data for export. 
@@ -53,7 +51,9 @@ Although NanoDrop spectrophotometers will display a concentration value, this is
 
     [This useful guide](https://tools.thermofisher.com/content/sfs/brochures/TN52646-E-0215M-NucleicAcid.pdf) to interpreting NanoDrop DNA/RNA curves is available from ThermoFisher.
 11. Once you have finished reading all of your samples, wipe down the NanoDrop pedestal with a damp Kimwipe to clean it and return the arm of the instrument to the lowered position.
-12. To export your table, click on the REPORTS option in the lower left corner. Highlight all of your samples that you wish to export and click EXPORT. Save as an .xml file (to open later in excel) on a flash drive. Close the software when done.
+12. To export your data: 
+   - **Ultra:** Insert a USB drive into the port on the rear of the instrument. Press "End Experiment" and follow the onscreen prompts.
+   - **2000C:** Click on the REPORTS option in the lower left corner. Highlight all of your samples that you wish to export and click EXPORT. Save as an .xml file (to open later in excel) on a flash drive. Close the software when done.
 
 {: .note }
 For samples with DNA concentrations >100 ng/µL, a dilution of 25 ng/µL should be made to work with for PCR.
