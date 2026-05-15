@@ -34,7 +34,7 @@ Although NanoDrop spectrophotometers will display a concentration value, this is
 7. Type your SAMPLE ID for your first sample in the top right corner.
 8. Gently mix your sample first for accurate concentration reading.
 9. Load 1–2 µL of your sample onto the pedestal, ensuring the small "eye" of the pedestal is covered. Lower the device arm. If using the 2000C (or Ultra with Auto-Measure OFF), click MEASURE.
-   - **Ultra:** Experiments are saved automatically and can be accessed from the clipboard icon on the left navifation bar.
+   - **Ultra:** Experiments are saved automatically and can be accessed from the clipboard icon on the left navigation bar.
    - **2000C:** You will be asked to name the NanoDrop workbook you are creating. Navigate to your Molecular folder, edit filename, and save workbook (leave as .twbk file).
 10. Your DNA concentration value will appear in the top right corner of the screen with the units in ng/µL. An ideal DNA concentration for PCR will be between 25–100 ng/µL. Ideal A260/280 and A260/230 ratios will be about 2.0.
 
@@ -54,7 +54,7 @@ Although NanoDrop spectrophotometers will display a concentration value, this is
 For samples with DNA concentrations >100 ng/µL, a dilution of 25 ng/µL should be made to work with for PCR.
 
 {: .note }
-The NanoDrop Ultra has an underglow light that will display the following colors. Note that a "fail" result is not uncommon when working with non-model or preserved samples, and that good data can still be obtained even when QC results are suboptimal.
+> The NanoDrop Ultra has an underglow light that will display the following colors. Note that a "fail" result is not uncommon when working with non-model or preserved samples, and that good data can still be obtained even when QC results are suboptimal.
 > | Light condition | Meaning                        |
 > |:----------------|:-------------------------------|
 > |Off              | Powered off/Energy Saver Mode  |
