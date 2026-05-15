@@ -54,6 +54,7 @@ Although NanoDrop spectrophotometers will display a concentration value, this is
 For samples with DNA concentrations >100 ng/µL, a dilution of 25 ng/µL should be made to work with for PCR.
 
 {: .note }
+The NanoDrop Ultra has an underglow light that will display the following colors. Note that a "fail" result is not uncommon when working with non-model or preserved samples, and that good data can still be obtained even when QC results are suboptimal.
    | Light condition | Meaning                        |
    |:----------------|:-------------------------------|
    |Off              | Powered off/Energy Saver Mode  |
@@ -63,3 +64,4 @@ For samples with DNA concentrations >100 ng/µL, a dilution of 25 ng/µL should 
    | Constant blue   | Diagnostic - pass.             |
    | Constant amber  | Diagnostic - conditional pass. |
    | Blinking amber  | Diagnostic - fail result       |
+   | Red             | Concentration <20 ng/µL        |
