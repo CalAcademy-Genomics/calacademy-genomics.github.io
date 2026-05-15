@@ -45,7 +45,7 @@ Although NanoDrop spectrophotometers will display a concentration value, this is
       width='300'>
 
     [This useful guide](https://tools.thermofisher.com/content/sfs/brochures/TN52646-E-0215M-NucleicAcid.pdf) to interpreting NanoDrop DNA/RNA curves is available from ThermoFisher.
-11. Once you have finished reading all of your samples, wipe down the NanoDrop pedestal with a damp Kimwipe to clean it and return the arm of the instrument to the lowered position.
+11. Once you have finished reading all of your samples, wipe down the NanoDrop pedestal with DI water and a Kimwipe. Return the arm of the instrument to the lowered position.
 12. To export your data: 
    - **Ultra:** Insert a USB drive into the port on the rear of the instrument. Press "End Experiment" and follow the onscreen prompts.
    - **2000C:** Click on the REPORTS option in the lower left corner. Highlight all of your samples that you wish to export and click EXPORT. Save as an .xml file (to open later in excel) on a flash drive. Close the software when done.
