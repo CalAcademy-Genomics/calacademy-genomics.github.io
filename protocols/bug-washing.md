@@ -9,6 +9,7 @@ parent: DNA & sample cleanups
 
 Generously shared with the CCG by Bruna Cortat Simoneli, CAS Lakeside Fellow, Laboratório de Biodiversidade de Insetos (Insect Biodiversity Laboratory), Universidade Federal do Espírito Santo (UFES), Brazil. Some modifications have been made to reflect CCG equipment and materials.
 
+<details open markdown="block">
 ### Purpose
 Following DNA extraction, crystals may form on the specimen from the buffers used during cell and tissue lysis. To avoid this, the specimen should be cleaned after extraction.
 
@@ -18,6 +19,8 @@ Crystal formation on a chalcid wasp following DNA extraction without proper clea
 Ethanol is used to dehydrate the specimen, preventing decay and fungal growth. However, the exoskeletons of very small and delicate samples may buckle under osmotic pressure if transferred directly to 100% ethanol after rinsing in water. To prevent this, the specimen is transferred to gradually increasing ethanol concentrations until 100% is reached. Finally, ethyl acetate is used to further dehydrate the specimen and remove any oily remaining oily residues.
 
 This procedure is optimized for small, delicate specimens (microhymenoptera). For more robust specimens (e.g., beetles), fewer wash steps may be acceptable. See notes below, and consult with your PI or collection manager to determine appropriate modifications.
+
+</details>
 
 ### Materials/Reagents
 - Molecular-grade ethanol
