@@ -1,10 +1,10 @@
 ---
 layout: default
-title: DNA & Sample cleanups
+title: DNA & sample cleanups
 nav_order: 3
 parent: Protocols
 has_children: true
 ---
-# Extractions
+# DNA & sample cleanups
 
 These protocols are primarily involved with DNA cleanup and purification.
