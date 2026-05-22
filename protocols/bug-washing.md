@@ -11,9 +11,10 @@ Generously shared with the CCG by Bruna Cortat Simoneli, CAS Lakeside Fellow, La
 
 <details open markdown="block">
 <summary>Click to show/hide this section. </summary>
-Following DNA extraction, crystals may form on the specimen from the buffers used during cell and tissue lysis. To avoid this, the specimen should be cleaned after extraction.
 
 ### Background information
+
+Following DNA extraction, crystals may form on the specimen from the buffers used during cell and tissue lysis. To avoid this, the specimen should be cleaned after extraction.
   
 <img width="800" height="372" alt="Crystal formation on a chalcid wasp following DNA extraction without proper cleaning. Image credit: Bruna Cortat Simoneli." src="https://github.com/user-attachments/assets/6cb1285e-2e06-4528-a29b-f6dd29926c63"/>
 Crystal formation on a chalcid wasp following DNA extraction without proper cleaning. Image credit: Bruna Cortat Simoneli.
@@ -70,12 +71,9 @@ Ethyl acetate will cloud or dissolve some plastics. See details above.
 
 ### Abbreviated protocol for robust specimens (e.g., Coleoptera)
 
-### Protocol
-
-{: .note } 
 Specimens with heavily sclerotized bodies may not require as many steps as more delicate species (e.g., microhymenopterans). In these cases, the use of ethyl acetate may not be necessary. Some coleopterists even mount their specimens immediately after the 75% ethanol wash (skipping steps 5-6 below), then allow them to dry in a drying chamber or inside a Schmitt box. 
 
-{:style="counter-reset:none"}
+### Protocol
 
 ### Materials/Reagents
 - Molecular-grade ethanol
