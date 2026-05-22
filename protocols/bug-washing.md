@@ -54,8 +54,8 @@ Ethyl acetate (EA) will cloud or dissolve some plastics, including polystyrene a
 #### Mounting prep: Final dehydration and oil removal
 1. Prepare a container, tray, etc, for drying specimens after soaking with ethyl acetate.
 
-{: .warning } 
-Ethyl acetate will cloud or dissolve some plastics. See details above.
+  {: .warning } 
+  Ethyl acetate will cloud or dissolve some plastics. See details above.
 
 2. Remove the ~100% ethanol from the tube and discard.
 3. Add sufficient ethyl acetate to completely immerse the specimen. Pipette off the ethyl acetate and discard.
