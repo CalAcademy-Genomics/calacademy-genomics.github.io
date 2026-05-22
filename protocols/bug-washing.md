@@ -10,10 +10,10 @@ parent: DNA & sample cleanups
 Generously shared with the CCG by Bruna Cortat Simoneli, CAS Lakeside Fellow, Laboratório de Biodiversidade de Insetos (Insect Biodiversity Laboratory), Universidade Federal do Espírito Santo (UFES), Brazil. Some modifications have been made to reflect CCG equipment and materials.
 
 <details open markdown="block">
-  <summary>Click to show/hide this section. </summary>
-  Following DNA extraction, crystals may form on the specimen from the buffers used during cell and tissue lysis. To avoid this, the specimen should be cleaned after extraction.
+<summary>Click to show/hide this section. </summary>
+Following DNA extraction, crystals may form on the specimen from the buffers used during cell and tissue lysis. To avoid this, the specimen should be cleaned after extraction.
 
-### Background information
+## Background information
   
 <img width="800" height="372" alt="Crystal formation on a chalcid wasp following DNA extraction without proper cleaning. Image credit: Bruna Cortat Simoneli." src="https://github.com/user-attachments/assets/6cb1285e-2e06-4528-a29b-f6dd29926c63"/>
 Crystal formation on a chalcid wasp following DNA extraction without proper cleaning. Image credit: Bruna Cortat Simoneli.
@@ -64,28 +64,29 @@ Ethyl acetate will cloud or dissolve some plastics. See details above.
 6. After these steps, the specimen is ready for mounting.
 
 <details markdown="block">
-<summary>Abbreviated protocol for robust specimens (e.g., Coleoptera)</summary>
+  <summary>Click to show/hide this section.</summary>
+  ### Abbreviated protocol for robust specimens (e.g., Coleoptera)</summary>
 
-### Protocol
-{: .note } 
-Specimens with heavily sclerotized bodies may not require as many steps as more delicate species (e.g., microhymenopterans). In these cases, the use of ethyl acetate may not be necessary. Some coleopterists even mount their specimens immediately after the 75% ethanol wash (skipping steps 5-6 below), then allow them to dry in a drying chamber or inside a Schmitt box. 
+  ### Protocol
+  {: .note } 
+  Specimens with heavily sclerotized bodies may not require as many steps as more delicate species (e.g., microhymenopterans). In these cases, the use of ethyl acetate may not be necessary. Some coleopterists even mount their specimens immediately after the 75% ethanol wash (skipping steps 5-6 below), then allow them to dry in a drying chamber or inside a Schmitt box. 
 
-### Materials/Reagents
-- Molecular-grade ethanol
-- Molecular-grade water
-- Squeeze or micropipettes
-- Eppendorf tubes
+  ### Materials/Reagents
+  - Molecular-grade ethanol
+  - Molecular-grade water
+  - Squeeze or micropipettes
+  - Eppendorf tubes
 
-### Preparation
-- Prepare aliquots of ethanol (diluted with water) at the following concentrations: 70–75%, 100%.
+  ### Preparation
+  - Prepare aliquots of ethanol (diluted with water) at the following concentrations: 70–75%, 100%.
 
-1. After removing the insect from the extraction solution, transfer to a new tube and fill with water. Pipette off the water and discard.
-2. Repeat step 1 twice for a total of three washes. The specimen can also be left soaking in water for up to 30 minutes.
-3. Add sufficient 70%–75% ethanol to completely immerse the specimen. Pipette off the ethanol and discard. This helps remove residual water, which would reduce ethanol concentration in following washes.
-4. Add sufficient 70%–75% ethanol to fully immerse the specimen. Allow the specimen to soak for at least 30 minutes to maximize water displacement.
-5. Repeat steps 3 and 4 using 100% ethanol.
-6. At this stage, the specimen is ready for long-term preservation in an appropriate storage tube and 100% ethanol.
-7. As soon as the specimen is removed from the ethanol, mount it.
-8. The mounted specimen can be dried in a drying chamber or Schmitt box for approximately two days.
+  1. After removing the insect from the extraction solution, transfer to a new tube and fill with water. Pipette off the water and discard.
+  2. Repeat step 1 twice for a total of three washes. The specimen can also be left soaking in water for up to 30 minutes.
+  3. Add sufficient 70%–75% ethanol to completely immerse the specimen. Pipette off the ethanol and discard. This helps remove residual water, which would reduce ethanol concentration in following washes.
+  4. Add sufficient 70%–75% ethanol to fully immerse the specimen. Allow the specimen to soak for at least 30 minutes to maximize water displacement.
+  5. Repeat steps 3 and 4 using 100% ethanol.
+  6. At this stage, the specimen is ready for long-term preservation in an appropriate storage tube and 100% ethanol.
+  7. As soon as the specimen is removed from the ethanol, mount it.
+  8. The mounted specimen can be dried in a drying chamber or Schmitt box for approximately two days.
 
 </details>
