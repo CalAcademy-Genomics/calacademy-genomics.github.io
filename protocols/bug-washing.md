@@ -63,7 +63,7 @@ Ethyl acetate will cloud or dissolve some plastics. See details above.
 5. Remove the specimen and place it on a paper towel to absorb excess ethyl acetate and allow residual solvent to evaporate. Discard liquid acetate and tube.
 6. After these steps, the specimen is ready for mounting.
 
-<details markdown="block">
+<details open markdown="block">
   <summary>Click to show/hide this section.</summary>
   ### Abbreviated protocol for robust specimens (e.g., Coleoptera)</summary>
 
