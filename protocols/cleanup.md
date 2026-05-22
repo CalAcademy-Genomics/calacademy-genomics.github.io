@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cleanup
+title: DNA & Sample cleanups
 nav_order: 3
 parent: Protocols
 has_children: true
