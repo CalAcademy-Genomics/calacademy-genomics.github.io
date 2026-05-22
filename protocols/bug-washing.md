@@ -65,9 +65,10 @@ Ethyl acetate will cloud or dissolve some plastics. See details above.
 
 <details open markdown="block">
 <summary>Click to show/hide this section.</summary>
+
 ### Abbreviated protocol for robust specimens (e.g., Coleoptera)
 
-  ### Protocol
+### Protocol
 {: .note } 
 Specimens with heavily sclerotized bodies may not require as many steps as more delicate species (e.g., microhymenopterans). In these cases, the use of ethyl acetate may not be necessary. Some coleopterists even mount their specimens immediately after the 75% ethanol wash (skipping steps 5-6 below), then allow them to dry in a drying chamber or inside a Schmitt box. 
 
