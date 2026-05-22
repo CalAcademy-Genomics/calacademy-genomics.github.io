@@ -10,9 +10,13 @@ parent: DNA & sample cleanups
 {: .caution }
 Enzymatic cleanup of PCR products can be used for any PCR product yielding only one band on the agarose gel. In cases where more than one PCR product is seen, we recommend trying to optimize your PCR to reduce non-specific amplification. 
 
+<details open markdown="block">
+<summary>Click here to show/hide this section.</summary>
+
 Exo/SAP is short for the enzymes Exonuclease I and Shrimp Alkaline Phosphatase. Exo/SAP purification of your PCR products prior to sequencing is essential for obtaining a clean sequence, as the Exonuclease I will degrade any excess primer from the original PCR, while the SAP will de-phosphorylate any dNTPS from the original PCR. These excess primers and dNTPS must be removed to prevent priming of both strands of DNA during cycle sequencing (removal of excess primers by Exonuclease I accomplishes this) and skewing the ratio of dye terminators dNTPs to non-dye terminator dNTPS (de-phosphorylation of the excess dNTPs by SAP accomplishes this).
 
 <img src='https://github.com/CCG-CAS/CCG-CAS.github.io/blob/main/assets/ExoSap%20Diagram.jpeg?raw=true' alt="ExoSAP-IT Diagram">
+</details>
 
 ### Protocol
 
