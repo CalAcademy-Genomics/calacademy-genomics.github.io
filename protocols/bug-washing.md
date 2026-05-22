@@ -65,7 +65,7 @@ Ethyl acetate will cloud or dissolve some plastics. See details above.
 
 <details open markdown="block">
   <summary>Click to show/hide this section.</summary>
-  ### Abbreviated protocol for robust specimens (e.g., Coleoptera)</summary>
+  ### Abbreviated protocol for robust specimens (e.g., Coleoptera)
 
   ### Protocol
   {: .note } 
@@ -80,7 +80,7 @@ Ethyl acetate will cloud or dissolve some plastics. See details above.
   ### Preparation
   - Prepare aliquots of ethanol (diluted with water) at the following concentrations: 70–75%, 100%.
 
-  ### Protocol
+  ### Protocol  
   1. After removing the insect from the extraction solution, transfer to a new tube and fill with water. Pipette off the water and discard.
   2. Repeat step 1 twice for a total of three washes. The specimen can also be left soaking in water for up to 30 minutes.
   3. Add sufficient 70%–75% ethanol to completely immerse the specimen. Pipette off the ethanol and discard. This helps remove residual water, which would reduce ethanol concentration in following washes.
