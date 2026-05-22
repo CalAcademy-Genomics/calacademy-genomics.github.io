@@ -10,6 +10,7 @@ parent: DNA & sample cleanups
 Generously shared with the CCG by Bruna Cortat Simoneli, CAS Lakeside Fellow, Laboratório de Biodiversidade de Insetos (Insect Biodiversity Laboratory), Universidade Federal do Espírito Santo (UFES), Brazil. Some modifications have been made to reflect CCG equipment and materials.
 
 <details open markdown="block">
+<summary>### Background information</summary>
 ### Purpose
 Following DNA extraction, crystals may form on the specimen from the buffers used during cell and tissue lysis. To avoid this, the specimen should be cleaned after extraction.
 
