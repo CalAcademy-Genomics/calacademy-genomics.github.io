@@ -2,7 +2,7 @@
 layout: default
 title: Post-extraction insect sample cleaning
 ancestor: Protocols
-parent: DNA & Sample cleanups
+parent: DNA & sample cleanups
 ---
 
 # Post-extraction cleaning of entomological specimens (Microhymenoptera)
