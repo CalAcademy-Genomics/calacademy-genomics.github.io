@@ -10,7 +10,7 @@ parent: DNA & sample cleanups
 Generously shared with the CCG by Bruna Cortat Simoneli, CAS Lakeside Fellow, Laboratório de Biodiversidade de Insetos (Insect Biodiversity Laboratory), Universidade Federal do Espírito Santo (UFES), Brazil. Some modifications have been made to reflect CCG equipment and materials.
 
 <details open markdown="block">
-<summary>### Background information</summary>
+<summary><h3>Background information</h3></summary>
 Following DNA extraction, crystals may form on the specimen from the buffers used during cell and tissue lysis. To avoid this, the specimen should be cleaned after extraction.
 
 <img width="800" height="372" alt="Crystal formation on a chalcid wasp following DNA extraction without proper cleaning. Image credit: Bruna Cortat Simoneli." src="https://github.com/user-attachments/assets/6cb1285e-2e06-4528-a29b-f6dd29926c63"/>
