@@ -10,15 +10,15 @@ parent: DNA & sample cleanups
 Generously shared with the CCG by Bruna Cortat Simoneli, CAS Lakeside Fellow, Laboratório de Biodiversidade de Insetos (Insect Biodiversity Laboratory), Universidade Federal do Espírito Santo (UFES), Brazil. Some modifications have been made to reflect CCG equipment and materials.
 
 <details open markdown="block">
-<summary><h3>Background information</h3></summary>
-Following DNA extraction, crystals may form on the specimen from the buffers used during cell and tissue lysis. To avoid this, the specimen should be cleaned after extraction.
+  <summary><h3>Background information</h3></summary>
+  Following DNA extraction, crystals may form on the specimen from the buffers used during cell and tissue lysis. To avoid this, the specimen should be cleaned after extraction.
 
-<img width="800" height="372" alt="Crystal formation on a chalcid wasp following DNA extraction without proper cleaning. Image credit: Bruna Cortat Simoneli." src="https://github.com/user-attachments/assets/6cb1285e-2e06-4528-a29b-f6dd29926c63"/>
+  <img width="800" height="372" alt="Crystal formation on a chalcid wasp following DNA extraction without proper cleaning. Image credit: Bruna Cortat Simoneli." src="https://github.com/user-attachments/assets/6cb1285e-2e06-4528-a29b-f6dd29926c63"/>
 Crystal formation on a chalcid wasp following DNA extraction without proper cleaning. Image credit: Bruna Cortat Simoneli.
 
-Ethanol is used to dehydrate the specimen, preventing decay and fungal growth. However, the exoskeletons of very small and delicate samples may buckle under osmotic pressure if transferred directly to 100% ethanol after rinsing in water. To prevent this, the specimen is transferred to gradually increasing ethanol concentrations until 100% is reached. Finally, ethyl acetate is used to further dehydrate the specimen and remove any oily remaining oily residues.
+  Ethanol is used to dehydrate the specimen, preventing decay and fungal growth. However, the exoskeletons of very small and delicate samples may buckle under osmotic pressure if transferred directly to 100% ethanol after rinsing in water. To prevent this, the specimen is transferred to gradually increasing ethanol concentrations until 100% is reached. Finally, ethyl acetate is used to further dehydrate the specimen and remove any oily remaining oily residues.
 
-This procedure is optimized for small, delicate specimens (microhymenoptera). For more robust specimens (e.g., beetles), fewer wash steps may be acceptable. See notes below, and consult with your PI or collection manager to determine appropriate modifications.
+  This procedure is optimized for small, delicate specimens (microhymenoptera). For more robust specimens (e.g., beetles), fewer wash steps may be acceptable. See notes below, and consult with your PI or collection manager to determine appropriate modifications.
 
 </details>
 
