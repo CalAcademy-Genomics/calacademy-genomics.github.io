@@ -33,7 +33,7 @@ Ethyl acetate is highly volatile and can cause drowsiness, dizziness, and narcos
 Ethyl acetate (EA) will cloud or dissolve some plastics, including polystyrene and polycarbonate. Do not use plastic Petri dishes (typically polystyrene), and do not place EA-soaked specimens on unknown foam or plastic surfaces. LDPE, HDPE, polypropylene, and glass are all compatible with EA and can be safely used for short periods at room temperature.
 
 ### Preparation
-- Dilute ethanol with water to the following concentrations: 70–75%, 80%, 90%, 100%.
+- Prepare aliquots of ethanol (diluted with water) at the following concentrations: 70–75%, 80%, 90%, 100%.
 
 ### Protocol
 #### Graduated ethanol wash
@@ -59,11 +59,20 @@ Ethyl acetate will cloud or dissolve some plastics. See details above.
 6. After these steps, the specimen is ready for mounting.
 
 <details markdown="block">
-<summary>More on Selecting your Bead Ratio</summary>
-Abbreviated protocol for robust specimens (e.g., Coleoptera)
+<summary>Abbreviated protocol for robust specimens (e.g., Coleoptera)</summary>
 
+### Protocol
 {: .note } 
 Specimens with heavily sclerotized bodies may not require as many steps as more delicate species (e.g., microhymenopterans). In these cases, the use of ethyl acetate may not be necessary. Some coleopterists even mount their specimens immediately after the 75% ethanol wash (skipping steps 5-6 below), then allow them to dry in a drying chamber or inside a Schmitt box. 
+
+### Materials/Reagents
+- Molecular-grade ethanol
+- Molecular-grade water
+- Squeeze or micropipettes
+- Eppendorf tubes
+
+### Preparation
+- Prepare aliquots of ethanol (diluted with water) at the following concentrations: 70–75%, 100%.
 
 1. After removing the insect from the extraction solution, transfer to a new tube and fill with water. Pipette off the water and discard.
 2. Repeat step 1 twice for a total of three washes. The specimen can also be left soaking in water for up to 30 minutes.
