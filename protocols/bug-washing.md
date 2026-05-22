@@ -13,7 +13,7 @@ Generously shared with the CCG by Bruna Cortat Simoneli, CAS Lakeside Fellow, La
 <summary>Click to show/hide this section. </summary>
 Following DNA extraction, crystals may form on the specimen from the buffers used during cell and tissue lysis. To avoid this, the specimen should be cleaned after extraction.
 
-## Background information
+### Background information
   
 <img width="800" height="372" alt="Crystal formation on a chalcid wasp following DNA extraction without proper cleaning. Image credit: Bruna Cortat Simoneli." src="https://github.com/user-attachments/assets/6cb1285e-2e06-4528-a29b-f6dd29926c63"/>
 Crystal formation on a chalcid wasp following DNA extraction without proper cleaning. Image credit: Bruna Cortat Simoneli.
@@ -80,6 +80,7 @@ Ethyl acetate will cloud or dissolve some plastics. See details above.
   ### Preparation
   - Prepare aliquots of ethanol (diluted with water) at the following concentrations: 70–75%, 100%.
 
+  ### Protocol
   1. After removing the insect from the extraction solution, transfer to a new tube and fill with water. Pipette off the water and discard.
   2. Repeat step 1 twice for a total of three washes. The specimen can also be left soaking in water for up to 30 minutes.
   3. Add sufficient 70%–75% ethanol to completely immerse the specimen. Pipette off the ethanol and discard. This helps remove residual water, which would reduce ethanol concentration in following washes.
