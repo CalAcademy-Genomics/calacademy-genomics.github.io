@@ -95,3 +95,14 @@ Specimens with heavily sclerotized bodies may not require as many steps as more 
 8. The mounted specimen can be dried in a drying chamber or Schmitt box for approximately two days.
 
 </details>
+
+{: .warning }
+<img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/GHS-corrosive.png?raw=true'
+    alt="GHS Irritant" 
+    width='48'
+    align='left'>
+<img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/GHS-flammable.png?raw=true'
+    alt='GHS Flammable'
+    width="48"
+    align='left'>
+All ethyl acetate waste must be disposed of in its designated waste bottle. This must read: “Ethyl acetate – Danger! Flammable.”
