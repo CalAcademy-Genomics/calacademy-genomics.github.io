@@ -25,9 +25,9 @@ Although NanoDrop spectrophotometers will display a concentration value, this is
    - **2000C:** With the group set to CLASSIC, click on the option for NUCLEIC ACID. Allow the instrument to conduct its routine verification of wavelength.
 3. Raise the device arm and wipe down the pedestal with a clean, damp Kimwipe. *Gently* lower the arm.
 4. To blank the instrument, raise the arm and load 1–2 µL of AE buffer  (or water, or TE buffer, whatever your DNA is resuspended in) onto the pedestal. Lower the arm and click BLANK.
+{:style="counter-reset:none"}
 
 ### Data Collection
-{:style="counter-reset:none"}
 5. Raise the device arm and wipe down the pedestal with dry Kimwipe.
 
    {: .note } 
