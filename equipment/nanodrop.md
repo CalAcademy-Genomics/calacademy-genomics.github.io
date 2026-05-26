@@ -27,6 +27,7 @@ Although NanoDrop spectrophotometers will display a concentration value, this is
 4. To blank the instrument, raise the arm and load 1–2 µL of AE buffer  (or water, or TE buffer, whatever your DNA is resuspended in) onto the pedestal. Lower the arm and click BLANK.
 
 ### Data Collection
+{:style="counter-reset:none"}
 5. Raise the device arm and wipe down the pedestal with dry Kimwipe.
 
    {: .note } 
