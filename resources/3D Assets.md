@@ -1,4 +1,3 @@
-<img width="1500" height="999" alt="Bead dispenser - large beads" src="https://github.com/user-attachments/assets/832cc052-2774-4524-832a-a7f6d3931cfa" />---
 layout: default
 title: 3D Assets
 parent: Resources
