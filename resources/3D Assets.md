@@ -8,7 +8,7 @@ has_children: true
 
 These are the design and STL files for 3D-printed assets used in the CCG. Check clearances and tolerances; some pieces may require adjustment (or sanding) based on your printer, filament, etc.
 
-<img width="1500" height="999" alt="Bead dispenser - large beads" src="https://github.com/user-attachments/assets/a398f684-37e2-41e1-8950-8d7eda1b6b92" />
+<img width="500" height="333" alt="Bead dispenser - large beads" src="https://github.com/user-attachments/assets/a398f684-37e2-41e1-8950-8d7eda1b6b92" />
 **96-Well homogenization bead dispenser (2X 3.2 mm)**
  - [FreeCad File - Google Drive](https://drive.google.com/file/d/1b2MI_uhTrpi4jFIRGF3ZdsXNoiavU_q6/view?usp=drive_link)
 
