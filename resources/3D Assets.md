@@ -17,6 +17,7 @@ These are the design and STL files for 3D-printed assets used in the CCG. Check 
 **96-Well homogenization bead dispenser (4X 1.5 mm)**
  - [FreeCad File - Google Drive](https://drive.google.com/file/d/1b2MI_uhTrpi4jFIRGF3ZdsXNoiavU_q6/view?usp=drive_link)
 
+
 <img width="500" height="333" alt="PCR strip rack 1 1" src="https://github.com/user-attachments/assets/94b97842-ff79-4b1a-be07-7c67c0ca88fa" />
 **PCR Strip tube holder (2X)**
  - [FreeCad File - Google Drive](https://drive.google.com/file/d/1lWqXPDnw6WOQogYSD7v9dlmwyLA0v9qR/view?usp=drive_link)
