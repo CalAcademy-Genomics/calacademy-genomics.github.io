@@ -55,7 +55,7 @@ The TapeStation is an automated electrophoresis solution for quality control of 
 12. Close the TapeStation lid.
 13. In the software, select the wells in the graphic for your ladder and samples. They will come up on the right side of the screen.
 14. In the area on the right side, name each well with your sample number/ID.
-15. **Verify that the strip tube caps are removed and the tip waste bun is not full.**
+15. **Verify that the strip tube caps are removed and the tip waste bin is not full.**
 16. Press ‘Start.’ The run will begin, and display an estimated run time.
 
 ### Cleanup
