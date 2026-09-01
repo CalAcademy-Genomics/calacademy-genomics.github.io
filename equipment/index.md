@@ -13,16 +13,18 @@ Your samples are precious, and laboratory equipment is delicate and expensive. C
 
 The CCG has a variety of equipment available to research staff and their students, including (but not limited to)...
 
-* BenchSmart 96 pipettor
-* BentoLab all-in-one PCR system
-* Centrifuges (2 mL, 10-15/50 mL, and PCR plate)
-* Gel electrophoresis rigs (and Analytik Jena visualization system)
-* Oxford Nanopore PromethION 2 Solo and MinION (and Razer Blade 16 Gaming Laptop for field sequencing)
-* Plate reader (SpectraMax Gemini EM)
+* Nine thermal cyclers (Bio-Rad and Thermo Fisher)
+* Thermo Fisher QuantStudio 5 Real-time qPCR system
+* Qubit 4.0 and 2.0 fluorometers
 * NanoDrop Ultra spectrophotometer
-* Real-time QPCR system (Thermo Fisher QuantStudio 3)
-* Sonicators (QSonica and Covaris)
-* TapeStation (Agilent)
-* Thermal cyclers
-* TissueLyser II
-* Qubit fluorometers
+* SpectraMax Gemini EM microplate reader
+* Rainin BenchSmart96
+* Agilent TapeStation 4150
+* Qsonica and Covaris Sonicators
+* Qiagen TissueLyser II
+* Gel electrophoresis rigs (and Analytik Jena GelStudio Plus system)
+* Savant ISS110 SpeedVac Concentrator (with 1.5mL and 0.2mL plate rotors)
+* Two Eppendorf 5810R centrifuges (and deep-well plate rotor)
+* Oxford Nanopore PromethION 2 Solo and MinION (and Razer Blade 16 Gaming Laptop for field sequencing)
+* BentoLab all-in-one PCR system
+* Two -80 degree freezers outfitted with emergency back-up power
