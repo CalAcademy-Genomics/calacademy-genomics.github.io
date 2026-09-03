@@ -15,4 +15,4 @@ It is primarily written for researchers who:
 
 It is primarily written for the the [Google Colab](https://colab.research.google.com/) environment, which includes a basic user interface. However, it is also portable to Jupyter notebooks or (for larger datasets) an HPC.
 
-[GitHub repository](https://github.com/RichardMSBS/NUDIMAX)
+[NUDIMAX GitHub repository](https://github.com/RichardMSBS/NUDIMAX)
