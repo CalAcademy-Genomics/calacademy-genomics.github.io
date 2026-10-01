@@ -6,7 +6,9 @@ parent: Resources
 has_children: true
 ---
 # Educational Materials
-Below are some helpful resources for researchers beginning their journey in museum genomics.
+Below are some helpful resources for researchers beginning their journey in museum genomics. These are not intended to be exhaustive; rather, they serve as an accessible introduction to complex molecular biology topics, especially when it comes to demystifying certain jargon. 
+
+If you'd like to suggest a topic, we encourage you to [email us!](ccg-lab@calacademy.org)
 
 **Biochemistry Refreshers**
 - [Biochemistry Refresher (with chemistry refresher)](https://docs.google.com/presentation/d/1g6oQt60-NFYwLFwPGjz_iIWUerT55vnCSK-bBhp_zbU/edit?usp=drive_link){:target="_blank"}
