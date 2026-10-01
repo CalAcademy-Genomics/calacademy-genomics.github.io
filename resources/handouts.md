@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Educational Materials
+title: Reference Materials
 nav_order: 4
 parent: Resources
 has_children: true
 ---
-# Educational Materials
+# Reference Materials
 Below are some helpful resources for researchers beginning their journey in museum genomics. These are not intended to be exhaustive; rather, they serve as an accessible introduction to complex molecular biology topics, especially when it comes to demystifying certain jargon. 
 
 Have a burning question, but don't see the answer here? Feel free to [make a suggestion!](https://forms.gle/zV9VQFJ5R1nZPMKv9){:target="_blank"}
