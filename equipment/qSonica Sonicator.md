@@ -60,9 +60,4 @@ Sonication time varies by DNA size, genome size, tube volume, and sample buffer.
       width='800'>
 20. Once general conditions are worked out for a project, continue with the next set of tubes to sonicate. When you are done for the day, turn off the chiller pump and use the “0” button on the power supply to turn it off. Consult with the lab manager about when and how to empty the water from the bath.
 21. Optional: assess all project samples on a gel. (note: only those starting with 500 ng+ will be easily visible.) Add extra sonication time to any that are outliers.
-22. Completed samples may be stored at -20°C while sonication for a project is on-going.\
-
-
-{: .note }
-> Suggested citation (APA format):
-> Baker-Strader, R., Kim, G., & Lam, A. ({{ site.time | date: '%Y' }}). _{{ page.title }}._ {{site.title}}. Retrieved {{ 'now' | date: " %B %-d, %Y" }}, from {{ page.url | absolute_url}}.
+22. Completed samples may be stored at -20°C while sonication for a project is on-going.
