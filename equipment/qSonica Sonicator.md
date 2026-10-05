@@ -1,6 +1,7 @@
 ---
 layout: default
-title: qSonica Sonicator
+title: DNA shearing with the qSonica Sonicator
+sidebar_label: qSonica Sonicator
 parent: Lab Equipment
 ancestor: Lab Equipment
 ---
@@ -64,4 +65,5 @@ Sonication time varies by DNA size, genome size, tube volume, and sample buffer.
 
     {: .note }
     Suggested citation (APA format):
-    Baker-Strader, R., Kim, G., & Lam, A. {{ site.time | date: '%y' }}. _{{ page.title }}._ CCG Lab Resources. Retrieved on {{ 'now' | date: "%D $M %Y" }}, from {{ page.url | absolute_url }}.
+    
+    Baker-Strader, R., Kim, G., & Lam, A. {{ site.time | date: '%YYYY' }}. _{{ page.title }}._ CCG Lab Resources. Retrieved on {{ 'now' | date: "%D" }}, from {{ page.url | absolute_url }}.
