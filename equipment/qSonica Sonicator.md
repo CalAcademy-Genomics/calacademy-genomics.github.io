@@ -66,4 +66,4 @@ Sonication time varies by DNA size, genome size, tube volume, and sample buffer.
     {: .note }
     Suggested citation (APA format):
     
-    Baker-Strader, R., Kim, G., & Lam, A. ({{ site.time | date: '%Y' }}). _{{ page.title }}._ CCG Lab Resources. Retrieved {{ 'now' | date: " %B %-d, %Y" }}, from {{ site.url | absolute_url }}.
+    Baker-Strader, R., Kim, G., & Lam, A. ({{ site.time | date: '%Y' }}). _{{ page.title }}._ CCG Lab Resources. Retrieved {{ 'now' | date: " %B %-d, %Y" }}, from {{ page.url | absolute_url }}.
