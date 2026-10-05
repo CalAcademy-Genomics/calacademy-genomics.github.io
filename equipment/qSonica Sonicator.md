@@ -63,7 +63,6 @@ Sonication time varies by DNA size, genome size, tube volume, and sample buffer.
 22. Completed samples may be stored at -20°C while sonication for a project is on-going.\
 
 
-    {: .note }
-    Suggested citation (APA format):
-    
-    Baker-Strader, R., Kim, G., & Lam, A. ({{ site.time | date: '%Y' }}). _{{ page.title }}._ CCG Lab Resources. Retrieved {{ 'now' | date: " %B %-d, %Y" }}, from {{ page.url | absolute_url}}.
+{: .note }
+> Suggested citation (APA format):
+> Baker-Strader, R., Kim, G., & Lam, A. ({{ site.time | date: '%Y' }}). _{{ page.title }}._ CCG Lab Resources. Retrieved {{ 'now' | date: " %B %-d, %Y" }}, from {{ page.url | absolute_url}}.
