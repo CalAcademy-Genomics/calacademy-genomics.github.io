@@ -50,3 +50,4 @@ url: https://calacademy-genomics.github.io
 
 plugins:
   - jekyll-redirect-from
+  - jekyll-last-modified-at
