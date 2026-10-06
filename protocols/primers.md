@@ -33,3 +33,5 @@ Your primer stocks come lyophilized (freeze-dried) from the company. It is best 
    Be sure you are adding the correct primer to your labeled tubes!
 
 4. Mix and spin.
+
+<br><br><br>{: .fs-2}This page last updated {{ site.time |  date: '%B %-d, %Y' }}.
