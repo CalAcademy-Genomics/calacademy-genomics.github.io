@@ -34,4 +34,5 @@ Your primer stocks come lyophilized (freeze-dried) from the company. It is best 
 
 4. Mix and spin.
 
-{: .fs-2 }This page last updated {{ site.time |  date: '%B %-d, %Y' }}.
+{: .fs-2 }
+This page last updated {{ site.time |  date: '%B %-d, %Y' }}.
