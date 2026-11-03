@@ -12,6 +12,7 @@ Have a burning question, but don't see the answer here? Feel free to [make a sug
 
 **General Lab Practices**
 - [Pipetting techniques poster (Legal size)](https://docs.google.com/presentation/d/1zxIhFvb8YVD5P60oI-N630nfUWnlIBaEGd0KyzMJcbk/edit?usp=sharing){:target="_blank"}
+- - [Pipetting techniques poster (Legal size PDF)](https://drive.google.com/file/d/1GO8_4SA6ikHtaMVVU4ThZSGPm2nN3gvK/view?usp=sharing){:target="_blank"}
 
 **Biochemistry Refreshers**
 - [Biochemistry Refresher (with chemistry refresher)](https://docs.google.com/presentation/d/1g6oQt60-NFYwLFwPGjz_iIWUerT55vnCSK-bBhp_zbU/edit?usp=drive_link){:target="_blank"}
