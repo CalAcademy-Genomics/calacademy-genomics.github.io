@@ -11,7 +11,7 @@ Below are some helpful resources for researchers beginning their journey in muse
 Have a burning question, but don't see the answer here? Feel free to [make a suggestion!](https://forms.gle/zV9VQFJ5R1nZPMKv9){:target="_blank"}
 
 **General Lab Practices**
-- [Pipetting techniques poster (Legal size PDF)](https://drive.google.com/file/d/13HM7t6vFv4sPKcZsoSF4Gv1WkdA962SQ/view?usp=drive_link)
+- [Pipetting techniques poster (Legal size PDF)](https://drive.google.com/file/d/13HM7t6vFv4sPKcZsoSF4Gv1WkdA962SQ/view?usp=drive_link){:target="_blank"}
 
 **Biochemistry Refreshers**
 - [Biochemistry Refresher (with chemistry refresher)](https://docs.google.com/presentation/d/1g6oQt60-NFYwLFwPGjz_iIWUerT55vnCSK-bBhp_zbU/edit?usp=drive_link){:target="_blank"}
