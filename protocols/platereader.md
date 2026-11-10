@@ -35,6 +35,7 @@ Device initialization and setup
   - Calibrate, ON
   - Carriage speed, NORMAL
   - Read order, COLUMN
+{:style="counter-reset:none"}
 
 Plate Reader template setup
 {: .fw-500 .fs-5 }
@@ -69,6 +70,7 @@ Plate Reader template setup
   > Do not assign samples to empty wells. To clear empty wells, right-click them and select Clear.
 11. Double-check that your plate template setup accurately reflects your planned physical sample layout and press OK to exit the template editor.
 12. Proceed to load your sample plate.
+{:style="counter-reset:none"}
 
 Sample loading
 {: .fw-500 .fs-5 }
@@ -88,6 +90,7 @@ Sample loading
 21. Start the Plate Reader run by left-clicking READ (the green arrow) or pressing Ctrl + R.
 > {: .note}
 > If the “Read” button is disabled, select the plate setup template by left-clicking it.
+{:style="counter-reset:none"}
 
 Data conversion and export
 {: .fw-500 .fs-5 }
