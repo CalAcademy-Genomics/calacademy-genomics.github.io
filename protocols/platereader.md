@@ -5,15 +5,6 @@ parent: Quantification
 ancestor: Protocols
 ---
 
-/* Forces the theme to respect Kramdown's list continuation */
-ol[start] {
-  list-style-type: decimal !important;
-  padding-left: 2em !important;
-}
-ol[start] > li::before {
-  display: none !important;
-}
-
 # Checking DNA concentration with the Gemini EM Plate Reader and Qubit™ dsDNA HS Chemistry
 
 {: .note}
