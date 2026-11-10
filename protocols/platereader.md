@@ -62,8 +62,9 @@ Note: The Qubit reaction has an incubation time of 2 minutes, and its working so
   b. Under Start from, select top to bottom (assuming you are working in 8-strip columns).
   c. Set both X-direction and Y-direction to 1.
   d. Set Starting sample name to your sample prefix, followed by the starting sample number (e.g., CCG-01 will result in CCG-01, CCG-02, etc)
-> {: .note}
-> Do not assign samples to empty wells. To clear empty wells, right-click them and select Clear.
+  > {: .note}
+  > Do not assign samples to empty wells. To clear empty wells, right-click them and select Clear.
+
 {:style="counter-reset:none"}
 11. Double-check that your plate template setup accurately reflects your planned physical sample layout and press OK to exit the template editor.
 12. Proceed to load your sample plate.
@@ -71,14 +72,16 @@ Note: The Qubit reaction has an incubation time of 2 minutes, and its working so
 ### Sample loading
 {:style="counter-reset:none"}
 13. Add 99 µL 1X dsDNA HS Qubit Reagent to each assigned well.
-  {: .note}
-  Unlike the Qubit device, sample and standard volumes must be equal for the Plate Reader software to automatically calculate sample concentrations. 
+> {: .note}
+> Unlike the Qubit device, sample and standard volumes must be equal for the Plate Reader software to automatically calculate sample concentrations.
+
 {:style="counter-reset:none"}
 14. Add 1 µL of sample DNA to each sample well.
 15. Add 1µL of Qubit HS Standards #1 and #2 to their assigned wells.
 16. Pipette to mix. 
 > {: .caution}
 > Do not vortex! The Plate Reader plates/lids do not seal tightly. Vortexing will likely cause splashing, which may cross-contaminate your samples.
+
 17. Incubate 2 min @ RT, away from light (e.g., inside the Plate Reader drawer; see steps 18–20).
 18. Press the Drawer button on the Plate Reader device to open the drawer.
 19. Remove the plate lid and load the plate in the drawer, ensuring well A1 is in the upper left.
@@ -102,10 +105,12 @@ The Plate Reader software runs on Windows 7, which is no longer supported (and t
 25. Under Plate Export Options, select Reduced or Both.
 > {: .note}
 > If you select “Raw,” your data will be in relative fluorescence units (RFUs), which will need to be mathematically converted to concentration units as mentioned in the note above.
+
 {:style="counter-reset:none"}
 26. Under Output Format, select Columns or Plate and press OK.
 > {: .note}
 > The Columns and Plate formats are compatible with standard applications like Notepad, Microsoft Office, Google Drive, etc. XML is a markup language similar to HTML, and (while a valid output format) is not as easy to work with.
+
 {:style="counter-reset:none"}
 27. In the following Save As… menu, select an export destination and name your file as normal.
 28. Select an output file format (XLS is compatible with Microsoft Office and Google Sheets) and press OK.
