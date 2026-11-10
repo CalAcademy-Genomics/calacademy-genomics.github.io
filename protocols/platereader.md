@@ -6,10 +6,12 @@ ancestor: Protocols
 ---
 
 # Checking DNA concentration with the Gemini EM Plate Reader and Qubit™ dsDNA HS Chemistry
+
 {: .note}
 The Qubit reaction has an incubation time of 2 minutes, and its working solution is unstable when exposed to light. To minimize buffer degradation (and therefore maximize assay accuracy), set up the Plate Reader run before mixing any reagents.
 
-### Device initialization and setup 
+### Device initialization and setup
+
 1. Turn on the computer and Plate Reader device.
 2. Open the SoftMax Pro 7.1 software.
 3. Verify that the Plate Reader device is connected to the software. This is indicated by a Plate Reader icon with ✅ symbol in the upper left corner. If there is a 🚫 symbol, click the icon to search for the device. When “Gemini EM” is listed, click OK. There should now be a ✅ symbol.
@@ -35,6 +37,7 @@ The Qubit reaction has an incubation time of 2 minutes, and its working solution
 {:style="counter-reset:none"}
 
 ### Plate Reader template setup
+
 5. Click Template Editor (or open the CCG-HA-Qubit template).
 6. Define your standard group as follows:
 - Click Groups > ADD
@@ -68,6 +71,7 @@ The Qubit reaction has an incubation time of 2 minutes, and its working solution
 {:style="counter-reset:none"}
 
 ### Sample loading
+
 13. Add 99 µL 1X dsDNA HS Qubit Reagent to each assigned well.
 > {: .note}
 > Unlike the Qubit device, sample and standard volumes must be equal for the Plate Reader software to automatically calculate sample concentrations.
@@ -86,6 +90,7 @@ The Qubit reaction has an incubation time of 2 minutes, and its working solution
 {:style="counter-reset:none"}
 
 ### Data conversion and export
+
 {: .note}
 By default, the Plate Reader reports readings in relative fluorescence units (RFUs). These raw units can be mathematically converted to concentration values by calculating a standard curve and using the formula y = mx + b with y-intercept set to zero. However, the Plate Reader software can also do this for you using the Reduction feature.
 
