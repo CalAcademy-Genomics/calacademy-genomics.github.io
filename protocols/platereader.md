@@ -64,18 +64,17 @@ Note: The Qubit reaction has an incubation time of 2 minutes, and its working so
   b. Under Start from, select top to bottom (assuming you are working in 8-strip columns).
   c. Set both X-direction and Y-direction to 1.
   d. Set Starting sample name to your sample prefix, followed by the starting sample number (e.g., CCG-01 will result in CCG-01, CCG-02, etc)
-
   {: .note}
   Note: Do not assign samples to empty wells. To clear empty wells, right-click them and select Clear.
-
+{:style="counter-reset:none"}
 11. Double-check that your plate template setup accurately reflects your planned physical sample layout and press OK to exit the template editor.
 12. Proceed to load your sample plate.
-
-{:style="counter-reset:none"}
 ### Sample loading
+{:style="counter-reset:none"}
 13. Add 99 µL 1X dsDNA HS Qubit Reagent to each assigned well.
   {: .note}
   Unlike the Qubit device, sample and standard volumes must be equal for the Plate Reader software to automatically calculate sample concentrations. 
+{:style="counter-reset:none"}
 14. Add 1 µL of sample DNA to each sample well.
 15. Add 1µL of Qubit HS Standards #1 and #2 to their assigned wells.
 16. Pipette to mix. 
@@ -89,23 +88,26 @@ Note: The Qubit reaction has an incubation time of 2 minutes, and its working so
   {: .note}
   If the “Read” button is disabled, select the plate setup template by left-clicking it.
 
-{:style="counter-reset:none"}
 ### Data conversion and export
+{:style="counter-reset:none"}
 {: .note}
 By default, the Plate Reader reports readings in relative fluorescence units (RFUs). These raw units can be mathematically converted to concentration values by calculating a standard curve and using the formula y = mx + b with y-intercept set to zero. However, the Plate Reader software can also do this for you using the Reduction feature.
 
 {: .note}
 The Plate Reader software runs on Windows 7, which is no longer supported (and thus cannot be connected to the Academy Internet network). File exports must be moved off the Plate Reader computer using a USB flash drive. If you don’t have a USB drive, the CCG has a loaner for checkout.
 
+{:style="counter-reset:none"}
 22. Left-click the PCR plate icon in the upper left corner of the screen.
 23. Select Export > Export to XML XLS TXT.
 24. Select the data to export (at minimum: your plates, samples, and standards).
 25. Under Plate Export Options, select Reduced or Both.
   {: .note}
   If you select “Raw,” your data will be in relative fluorescence units (RFUs), which will need to be mathematically converted to concentration units as mentioned in the note above.
+{:style="counter-reset:none"}
 26. Under Output Format, select Columns or Plate and press OK.
   {: .note}
   The Columns and Plate formats are compatible with standard applications like Notepad, Microsoft Office, Google Drive, etc. XML is a markup language similar to HTML, and (while a valid output format) is not as easy to work with.
+{:style="counter-reset:none"}
 27. In the following Save As… menu, select an export destination and name your file as normal.
 28. Select an output file format (XLS is compatible with Microsoft Office and Google Sheets) and press OK.
 29. Transfer your data to a USB drive. On Windows 7, it is recommended to use the “Safely Eject Hardware” button on the taskbar before removing the flash drive to prevent data corruption.
