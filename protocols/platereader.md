@@ -22,8 +22,10 @@ The Qubit reaction has an incubation time of 2 minutes, and its working solution
 ### Device initialization and setup
 
 Device initialization and setup (Test Heading 1)
-{: .fw-700 }{: .fs-6 }
+{: .fw-700 }
+
 Device initialization and setup (Test Heading 2)
+{: .fs-6 }
 
 Device initialization and setup (Test Heading 3)
 {: .fw-700 .fs-6 }
