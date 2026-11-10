@@ -7,8 +7,6 @@ ancestor: Protocols
 
 # Checking DNA concentration with the Gemini EM Plate Reader and Qubit™ dsDNA HS Chemistry
 
-The Qubit fluorometer allows for precise measurement of the concentration of double-stranded DNA in a sample. This is done by intercalating dye in between the bases in the strands. For this reason, it is widely accepted that the Qubit is more accurate than a spectrophotometer, which cannot distinguish between RNA, ssDNA, and dsDNA.
-
 {: .note}
 Note: The Qubit reaction has an incubation time of 2 minutes, and its working solution is unstable when exposed to light. To minimize buffer degradation (and therefore maximize assay accuracy), set up the Plate Reader run before mixing any reagents.
 
@@ -36,8 +34,8 @@ Note: The Qubit reaction has an incubation time of 2 minutes, and its working so
   - Carriage speed, NORMAL
   - Read order, COLUMN
 
-{:style="counter-reset:none"}
 ### Plate Reader template setup
+{:style="counter-reset:none"}
 5. Click Template Editor (or open the CCG-HA-Qubit template).
 6. Define your standard group as follows:
 - Click Groups > ADD
@@ -64,8 +62,8 @@ Note: The Qubit reaction has an incubation time of 2 minutes, and its working so
   b. Under Start from, select top to bottom (assuming you are working in 8-strip columns).
   c. Set both X-direction and Y-direction to 1.
   d. Set Starting sample name to your sample prefix, followed by the starting sample number (e.g., CCG-01 will result in CCG-01, CCG-02, etc)
-  {: .note}
-  Note: Do not assign samples to empty wells. To clear empty wells, right-click them and select Clear.
+> {: .note}
+> Do not assign samples to empty wells. To clear empty wells, right-click them and select Clear.
 {:style="counter-reset:none"}
 11. Double-check that your plate template setup accurately reflects your planned physical sample layout and press OK to exit the template editor.
 12. Proceed to load your sample plate.
@@ -78,15 +76,15 @@ Note: The Qubit reaction has an incubation time of 2 minutes, and its working so
 14. Add 1 µL of sample DNA to each sample well.
 15. Add 1µL of Qubit HS Standards #1 and #2 to their assigned wells.
 16. Pipette to mix. 
-    {: .caution}
-    Do not vortex! The Plate Reader plates/lids do not seal tightly. Vortexing will likely cause splashing, which may cross-contaminate your samples.
+> {: .caution}
+> Do not vortex! The Plate Reader plates/lids do not seal tightly. Vortexing will likely cause splashing, which may cross-contaminate your samples.
 17. Incubate 2 min @ RT, away from light (e.g., inside the Plate Reader drawer; see steps 18–20).
 18. Press the Drawer button on the Plate Reader device to open the drawer.
 19. Remove the plate lid and load the plate in the drawer, ensuring well A1 is in the upper left.
 20. Press the Drawer button on the Plate Reader device to close the drawer.
 21. Start the Plate Reader run by left-clicking READ (the green arrow) or pressing Ctrl + R.
-  {: .note}
-  If the “Read” button is disabled, select the plate setup template by left-clicking it.
+> {: .note}
+> If the “Read” button is disabled, select the plate setup template by left-clicking it.
 
 ### Data conversion and export
 {:style="counter-reset:none"}
@@ -101,12 +99,12 @@ The Plate Reader software runs on Windows 7, which is no longer supported (and t
 23. Select Export > Export to XML XLS TXT.
 24. Select the data to export (at minimum: your plates, samples, and standards).
 25. Under Plate Export Options, select Reduced or Both.
-  {: .note}
-  If you select “Raw,” your data will be in relative fluorescence units (RFUs), which will need to be mathematically converted to concentration units as mentioned in the note above.
+> {: .note}
+> If you select “Raw,” your data will be in relative fluorescence units (RFUs), which will need to be mathematically converted to concentration units as mentioned in the note above.
 {:style="counter-reset:none"}
 26. Under Output Format, select Columns or Plate and press OK.
-  {: .note}
-  The Columns and Plate formats are compatible with standard applications like Notepad, Microsoft Office, Google Drive, etc. XML is a markup language similar to HTML, and (while a valid output format) is not as easy to work with.
+> {: .note}
+> The Columns and Plate formats are compatible with standard applications like Notepad, Microsoft Office, Google Drive, etc. XML is a markup language similar to HTML, and (while a valid output format) is not as easy to work with.
 {:style="counter-reset:none"}
 27. In the following Save As… menu, select an export destination and name your file as normal.
 28. Select an output file format (XLS is compatible with Microsoft Office and Google Sheets) and press OK.
