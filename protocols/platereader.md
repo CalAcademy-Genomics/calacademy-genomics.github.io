@@ -25,10 +25,13 @@ Device initialization and setup (Test Heading 1)
 {: .fw-700 }
 
 Device initialization and setup (Test Heading 2)
-{: .fs-6 }
+{: .fw-400 .fs-4 }
 
 Device initialization and setup (Test Heading 3)
-{: .fw-700 .fs-6 }
+{: .fw-500 .fs-5 }
+
+Device initialization and setup (Test Heading 4)
+{: .fw-600 .fs-5 }
 
 1. Turn on the computer and Plate Reader device.
 2. Open the SoftMax Pro 7.1 software.
