@@ -10,9 +10,7 @@ ancestor: Protocols
 {: .note}
 The Qubit reaction has an incubation time of 2 minutes, and its working solution is unstable when exposed to light. To minimize buffer degradation (and therefore maximize assay accuracy), set up the Plate Reader run before mixing any reagents.
 
-Device initialization and setup
-{: .fw-500 .fs-5 }
-
+### Device initialization and setup
 1. Turn on the computer and Plate Reader device.
 2. Open the SoftMax Pro 7.1 software.
 3. Verify that the Plate Reader device is connected to the software. This is indicated by a Plate Reader icon with ✅ symbol in the upper left corner. If there is a 🚫 symbol, click the icon to search for the device. When “Gemini EM” is listed, click OK. There should now be a ✅ symbol.
@@ -36,9 +34,7 @@ Device initialization and setup
   - Carriage speed, NORMAL
   - Read order, COLUMN
 
-Plate Reader template setup
-{: .fw-500 .fs-5 }
-
+### Plate Reader template setup
 5. Click Template Editor (or open the CCG-HA-Qubit template).
 6. Define your standard group as follows:
 - Click Groups > ADD
@@ -70,9 +66,7 @@ Plate Reader template setup
 11. Double-check that your plate template setup accurately reflects your planned physical sample layout and press OK to exit the template editor.
 12. Proceed to load your sample plate.
 
-Sample loading
-{: .fw-500 .fs-5 }
-
+### Sample loading
 13. Add 99 µL 1X dsDNA HS Qubit Reagent to each assigned well.
 > {: .note}
 > Unlike the Qubit device, sample and standard volumes must be equal for the Plate Reader software to automatically calculate sample concentrations.
@@ -90,9 +84,7 @@ Sample loading
 > If the “Read” button is disabled, select the plate setup template by left-clicking it.
 {:style="counter-reset:none"}
 
-Data conversion and export
-{: .fw-500 .fs-5 }
-
+### Data conversion and export
 {: .note}
 By default, the Plate Reader reports readings in relative fluorescence units (RFUs). These raw units can be mathematically converted to concentration values by calculating a standard curve and using the formula y = mx + b with y-intercept set to zero. However, the Plate Reader software can also do this for you using the Reduction feature.
 
