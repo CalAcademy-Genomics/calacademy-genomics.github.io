@@ -19,19 +19,8 @@ ol[start] > li::before {
 {: .note}
 The Qubit reaction has an incubation time of 2 minutes, and its working solution is unstable when exposed to light. To minimize buffer degradation (and therefore maximize assay accuracy), set up the Plate Reader run before mixing any reagents.
 
-### Device initialization and setup
-
-Device initialization and setup (Test Heading 1)
-{: .fw-700 }
-
-Device initialization and setup (Test Heading 2)
-{: .fw-400 .fs-4 }
-
-Device initialization and setup (Test Heading 3)
+Device initialization and setup
 {: .fw-500 .fs-5 }
-
-Device initialization and setup (Test Heading 4)
-{: .fw-600 .fs-5 }
 
 1. Turn on the computer and Plate Reader device.
 2. Open the SoftMax Pro 7.1 software.
@@ -56,9 +45,8 @@ Device initialization and setup (Test Heading 4)
   - Carriage speed, NORMAL
   - Read order, COLUMN
 
-{:style="counter-reset:none"}
-
-### Plate Reader template setup
+Plate Reader template setup
+{: .fw-500 .fs-5 }
 
 5. Click Template Editor (or open the CCG-HA-Qubit template).
 6. Define your standard group as follows:
@@ -91,9 +79,8 @@ Device initialization and setup (Test Heading 4)
 11. Double-check that your plate template setup accurately reflects your planned physical sample layout and press OK to exit the template editor.
 12. Proceed to load your sample plate.
 
-{:style="counter-reset:none"}
-
-### Sample loading
+Sample loading
+{: .fw-500 .fs-5 }
 
 13. Add 99 µL 1X dsDNA HS Qubit Reagent to each assigned well.
 > {: .note}
@@ -111,9 +98,8 @@ Device initialization and setup (Test Heading 4)
 > {: .note}
 > If the “Read” button is disabled, select the plate setup template by left-clicking it.
 
-{:style="counter-reset:none"}
-
-### Data conversion and export
+Data conversion and export
+{: .fw-500 .fs-5 }
 
 {: .note}
 By default, the Plate Reader reports readings in relative fluorescence units (RFUs). These raw units can be mathematically converted to concentration values by calculating a standard curve and using the formula y = mx + b with y-intercept set to zero. However, the Plate Reader software can also do this for you using the Reduction feature.
@@ -134,5 +120,3 @@ The Plate Reader software runs on Windows 7, which is no longer supported (and t
 28. Select an output file format (XLS is compatible with Microsoft Office and Google Sheets) and press OK.
 29. Transfer your data to a USB drive. On Windows 7, it is recommended to use the “Safely Eject Hardware” button on the taskbar before removing the flash drive to prevent data corruption.
 30. Turn off the Plate Reader device and computer.
-
-{:style="counter-reset:none"}
