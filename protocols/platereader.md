@@ -34,7 +34,6 @@ The Qubit reaction has an incubation time of 2 minutes, and its working solution
   - Calibrate, ON
   - Carriage speed, NORMAL
   - Read order, COLUMN
-{:style="counter-reset:none"}
 
 ### Plate Reader template setup
 
@@ -68,7 +67,6 @@ The Qubit reaction has an incubation time of 2 minutes, and its working solution
   > Do not assign samples to empty wells. To clear empty wells, right-click them and select Clear.
 11. Double-check that your plate template setup accurately reflects your planned physical sample layout and press OK to exit the template editor.
 12. Proceed to load your sample plate.
-{:style="counter-reset:none"}
 
 ### Sample loading
 
@@ -87,7 +85,6 @@ The Qubit reaction has an incubation time of 2 minutes, and its working solution
 21. Start the Plate Reader run by left-clicking READ (the green arrow) or pressing Ctrl + R.
 > {: .note}
 > If the “Read” button is disabled, select the plate setup template by left-clicking it.
-{:style="counter-reset:none"}
 
 ### Data conversion and export
 
