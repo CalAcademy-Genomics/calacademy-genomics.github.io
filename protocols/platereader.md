@@ -67,6 +67,7 @@ Note: The Qubit reaction has an incubation time of 2 minutes, and its working so
 {:style="counter-reset:none"}
 11. Double-check that your plate template setup accurately reflects your planned physical sample layout and press OK to exit the template editor.
 12. Proceed to load your sample plate.
+
 ### Sample loading
 {:style="counter-reset:none"}
 13. Add 99 µL 1X dsDNA HS Qubit Reagent to each assigned well.
@@ -87,7 +88,7 @@ Note: The Qubit reaction has an incubation time of 2 minutes, and its working so
 > If the “Read” button is disabled, select the plate setup template by left-clicking it.
 
 ### Data conversion and export
-{:style="counter-reset:none"}
+
 {: .note}
 By default, the Plate Reader reports readings in relative fluorescence units (RFUs). These raw units can be mathematically converted to concentration values by calculating a standard curve and using the formula y = mx + b with y-intercept set to zero. However, the Plate Reader software can also do this for you using the Reduction feature.
 
