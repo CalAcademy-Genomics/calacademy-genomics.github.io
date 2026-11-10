@@ -33,9 +33,9 @@ Note: The Qubit reaction has an incubation time of 2 minutes, and its working so
   - Calibrate, ON
   - Carriage speed, NORMAL
   - Read order, COLUMN
+{:style="counter-reset:none"}
 
 ### Plate Reader template setup
-{:style="counter-reset:none"}
 5. Click Template Editor (or open the CCG-HA-Qubit template).
 6. Define your standard group as follows:
 - Click Groups > ADD
@@ -64,18 +64,15 @@ Note: The Qubit reaction has an incubation time of 2 minutes, and its working so
   d. Set Starting sample name to your sample prefix, followed by the starting sample number (e.g., CCG-01 will result in CCG-01, CCG-02, etc)
   > {: .note}
   > Do not assign samples to empty wells. To clear empty wells, right-click them and select Clear.
-
-{:style="counter-reset:none"}
 11. Double-check that your plate template setup accurately reflects your planned physical sample layout and press OK to exit the template editor.
 12. Proceed to load your sample plate.
+{:style="counter-reset:none"}
 
 ### Sample loading
-{:style="counter-reset:none"}
 13. Add 99 µL 1X dsDNA HS Qubit Reagent to each assigned well.
 > {: .note}
 > Unlike the Qubit device, sample and standard volumes must be equal for the Plate Reader software to automatically calculate sample concentrations.
 
-{:style="counter-reset:none"}
 14. Add 1 µL of sample DNA to each sample well.
 15. Add 1µL of Qubit HS Standards #1 and #2 to their assigned wells.
 16. Pipette to mix. 
@@ -89,9 +86,9 @@ Note: The Qubit reaction has an incubation time of 2 minutes, and its working so
 21. Start the Plate Reader run by left-clicking READ (the green arrow) or pressing Ctrl + R.
 > {: .note}
 > If the “Read” button is disabled, select the plate setup template by left-clicking it.
+{:style="counter-reset:none"}
 
 ### Data conversion and export
-
 {: .note}
 By default, the Plate Reader reports readings in relative fluorescence units (RFUs). These raw units can be mathematically converted to concentration values by calculating a standard curve and using the formula y = mx + b with y-intercept set to zero. However, the Plate Reader software can also do this for you using the Reduction feature.
 
@@ -105,13 +102,9 @@ The Plate Reader software runs on Windows 7, which is no longer supported (and t
 25. Under Plate Export Options, select Reduced or Both.
 > {: .note}
 > If you select “Raw,” your data will be in relative fluorescence units (RFUs), which will need to be mathematically converted to concentration units as mentioned in the note above.
-
-{:style="counter-reset:none"}
 26. Under Output Format, select Columns or Plate and press OK.
 > {: .note}
 > The Columns and Plate formats are compatible with standard applications like Notepad, Microsoft Office, Google Drive, etc. XML is a markup language similar to HTML, and (while a valid output format) is not as easy to work with.
-
-{:style="counter-reset:none"}
 27. In the following Save As… menu, select an export destination and name your file as normal.
 28. Select an output file format (XLS is compatible with Microsoft Office and Google Sheets) and press OK.
 29. Transfer your data to a USB drive. On Windows 7, it is recommended to use the “Safely Eject Hardware” button on the taskbar before removing the flash drive to prevent data corruption.
