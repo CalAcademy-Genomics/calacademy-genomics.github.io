@@ -6,9 +6,8 @@ ancestor: Protocols
 ---
 
 # Checking DNA concentration with the Gemini EM Plate Reader and Qubit™ dsDNA HS Chemistry
-
 {: .note}
-Note: The Qubit reaction has an incubation time of 2 minutes, and its working solution is unstable when exposed to light. To minimize buffer degradation (and therefore maximize assay accuracy), set up the Plate Reader run before mixing any reagents.
+The Qubit reaction has an incubation time of 2 minutes, and its working solution is unstable when exposed to light. To minimize buffer degradation (and therefore maximize assay accuracy), set up the Plate Reader run before mixing any reagents.
 
 ### Device initialization and setup 
 1. Turn on the computer and Plate Reader device.
@@ -72,13 +71,11 @@ Note: The Qubit reaction has an incubation time of 2 minutes, and its working so
 13. Add 99 µL 1X dsDNA HS Qubit Reagent to each assigned well.
 > {: .note}
 > Unlike the Qubit device, sample and standard volumes must be equal for the Plate Reader software to automatically calculate sample concentrations.
-
 14. Add 1 µL of sample DNA to each sample well.
 15. Add 1µL of Qubit HS Standards #1 and #2 to their assigned wells.
 16. Pipette to mix. 
 > {: .caution}
 > Do not vortex! The Plate Reader plates/lids do not seal tightly. Vortexing will likely cause splashing, which may cross-contaminate your samples.
-
 17. Incubate 2 min @ RT, away from light (e.g., inside the Plate Reader drawer; see steps 18–20).
 18. Press the Drawer button on the Plate Reader device to open the drawer.
 19. Remove the plate lid and load the plate in the drawer, ensuring well A1 is in the upper left.
@@ -95,7 +92,6 @@ By default, the Plate Reader reports readings in relative fluorescence units (RF
 {: .note}
 The Plate Reader software runs on Windows 7, which is no longer supported (and thus cannot be connected to the Academy Internet network). File exports must be moved off the Plate Reader computer using a USB flash drive. If you don’t have a USB drive, the CCG has a loaner for checkout.
 
-{:style="counter-reset:none"}
 22. Left-click the PCR plate icon in the upper left corner of the screen.
 23. Select Export > Export to XML XLS TXT.
 24. Select the data to export (at minimum: your plates, samples, and standards).
