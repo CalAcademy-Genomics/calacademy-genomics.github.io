@@ -21,6 +21,10 @@ The Qubit reaction has an incubation time of 2 minutes, and its working solution
 
 ### Device initialization and setup
 
+Device initialization and setup (Test Heading 1)
+{: .fw-700 }{: .fs-6 }
+Device initialization and setup (Test Heading 2)
+
 1. Turn on the computer and Plate Reader device.
 2. Open the SoftMax Pro 7.1 software.
 3. Verify that the Plate Reader device is connected to the software. This is indicated by a Plate Reader icon with ✅ symbol in the upper left corner. If there is a 🚫 symbol, click the icon to search for the device. When “Gemini EM” is listed, click OK. There should now be a ✅ symbol.
