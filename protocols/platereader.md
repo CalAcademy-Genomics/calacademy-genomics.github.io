@@ -15,35 +15,35 @@ The Qubit reaction has an incubation time of 2 minutes, and its working solution
 2. Open the SoftMax Pro 7.1 software.
 3. Verify that the Plate Reader device is connected to the software. This is indicated by a Plate Reader icon with ✅ symbol in the upper left corner. If there is a 🚫 symbol, click the icon to search for the device. When “Gemini EM” is listed, click OK. There should now be a ✅ symbol.
 4. Click Acquisition Settings and verify the following settings (or open the CCG-HA-Qubit template):
-- Read Mode: FL (Fluorescence)
-- Read Type: ENDPOINT
-- Wavelengths
-  - \# wavelength pairs,	1
-  - Excitation wavelength,	480 nm
-  - Emission wavelength,	530 nm
-  - Auto cutoff, ON
-- Plate Type: 96 Well Standard opaque
-- Read Area: Select All (or your sample layout, plus two additional wells for standards 1 and 2)
-- PMT & Optics
-  - PMT Gain, AUTO
-  - Flashes per read, 10
-  - Read from bottom, OFF
-- Shake, OFF
-- More Settings
-  - Calibrate, ON
-  - Carriage speed, NORMAL
-  - Read order, COLUMN
+> - Read Mode: FL (Fluorescence)
+> - Read Type: ENDPOINT
+> - Wavelengths
+>   - \# wavelength pairs,	1
+>   - Excitation wavelength,	480 nm
+>   - Emission wavelength,	530 nm
+>   - Auto cutoff, ON
+> - Plate Type: 96 Well Standard opaque
+> - Read Area: Select All (or your sample layout, plus two additional wells for standards 1 and 2)
+> - PMT & Optics
+>   - PMT Gain, AUTO
+>   - Flashes per read, 10
+>   - Read from bottom, OFF
+> - Shake, OFF
+> - More Settings
+>   - Calibrate, ON
+>   - Carriage speed, NORMAL
+>   - Read order, COLUMN
 
 ### Plate Reader template setup
 5. Click Template Editor (or open the CCG-HA-Qubit template).
 6. Define your standard group as follows:
-- Click Groups > ADD
-- Name your standard group (e.g., STDs, Standards, etc)
-- Under Group table layout, click STANDARDS.
-- Select Add columns > Sample Descriptor 1 and set the following parameters:
-  - Column Name	Concentration
-  - Units		µg/mL (equivalent to ng / µL), OR type ng/µL to override
-- Press OK
+> - Click Groups > ADD
+> - Name your standard group (e.g., STDs, Standards, etc)
+> - Under Group table layout, click STANDARDS.
+> - Select Add columns > Sample Descriptor 1 and set the following parameters:
+>   - Column Name	Concentration
+>   - Units		µg/mL (equivalent to ng / µL), OR type ng/µL to override
+> - Press OK
 7. Assign your standards to specific wells as follows:
   a. Click and drag to select 2 wells (or more, if running additional standards/replicates)
   b. Right-click your selection. Select STANDARDS (or your group name)
