@@ -37,8 +37,8 @@ The Qubit reaction has an incubation time of 2 minutes, and its working solution
 ### Plate Reader template setup
 5. Click Template Editor (or open the CCG-HA-Qubit template).
 6. Set the desired concentration units as follows (default: mg/mL):
-> a. Click **Standards > Standards,** then click **Edit.**
-> b. Ensure the **Sample Descriptor 1** checkbox is checked and select the desired units from the Sample Descriptor 1 drop-down menu.
+> a. Click **Standards > Standards,** then click **Edit.**<br>
+> b. Ensure the **Sample Descriptor 1** checkbox is checked and select the desired units from the Sample Descriptor 1 drop-down menu.<br>
 > {: .note}
 > The CCG typically measures DNA concentration in in ng/µl. The Plate Reader offers µg/mL, which is 1:1 equivalent (1 µg = 1000 ng, 1 mL = 1000 µg). This can also be set manually by typing "ng/µL" directly into the Units field instead of using the drop-down menu.
 > c. Select **OK.**
