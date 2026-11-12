@@ -37,38 +37,38 @@ The Qubit reaction has an incubation time of 2 minutes, and its working solution
 ### Plate Reader template setup
 5. Click Template Editor (or open the CCG-HA-Qubit template).
 6. Set the desired concentration units as follows (default: mg/mL):
- a. Click **Standards > Standards,** then click **Edit.**
- b. Ensure the **Sample Descriptor 1** checkbox is checked and select the desired units from the Sample Descriptor 1 drop-down menu.
+> a. Click **Standards > Standards,** then click **Edit.**
+> b. Ensure the **Sample Descriptor 1** checkbox is checked and select the desired units from the Sample Descriptor 1 drop-down menu.
 > {: .note}
 > The CCG typically measures DNA concentration in in ng/µl. The Plate Reader offers µg/mL, which is 1:1 equivalent (1 µg = 1000 ng, 1 mL = 1000 µg). This can also be set manually by typing "ng/µL" directly into the Units field instead of using the drop-down menu.
- c. Select **OK.**
+> c. Select **OK.**
 7. Define Standard 1 as follows:
-  a. Click **Standards > Standards.**
-  b. Click to select the well that will contain Qubit Standard 1 (if running replicates of Standard 1, click and drag to select multiple wells).
-  c. Right-click your selection and select STANDARDS.
-  d. Under **Standards,** set **Sample** to indicate Standard 1 ("Standard 1," "STD 1," etc.).
-  e. Under **Standards,** set **Concentration** to 0 ng/µL (or 0 µg/mL; see note above).
-  f. Click ASSIGN.
+> a. Click **Standards > Standards.**
+> b. Click to select the well that will contain Qubit Standard 1 (if running replicates of Standard 1, click and drag to select multiple wells).
+> c. Right-click your selection and select STANDARDS.
+> d. Under **Standards,** set **Sample** to indicate Standard 1 ("Standard 1," "STD 1," etc.).
+> e. Under **Standards,** set **Concentration** to 0 ng/µL (or 0 µg/mL; see note above).
+> f. Click ASSIGN.
 8. Repeat Step 7 for Standard 2, which has a concentration of 10 ng/µl (10 µg/mL).
 9. Assign your sample well(s) as follows:
-  a. Click **Unknowns > Unknowns.**
-  b. Click to select the well(s) that will contain your sample(s) (click and drag to select multiple wells).
-  c. Right-click your selection and select **Unknowns.**
-  d. Under **Standards,** set **Sample** to indicate Standard 1 ("Standard 1," "STD 1," etc.).
-  e. Under **Standards,** set **Concentration** to 0 ng/µL (or 0 µg/mL; see note above).
-  f. Click ASSIGN.
+> a. Click **Unknowns > Unknowns.**
+> b. Click to select the well(s) that will contain your sample(s) (click and drag to select multiple wells).
+> c. Right-click your selection and select **Unknowns.**
+> d. Under **Standards,** set **Sample** to indicate Standard 1 ("Standard 1," "STD 1," etc.).
+> e. Under **Standards,** set **Concentration** to 0 ng/µL (or 0 µg/mL; see note above).
+> f. Click ASSIGN.
 10. Assign your sample name(s).
-- If your sample names are non-sequential, this must be done individually.
-  a. Click your desired sample well.
-  b. Under **Assignment Options > Unknowns > Sample,** type your sample name and press **Assign.**
-  c. Repeat steps 10.b and 10.c for each sample.
-- If they end in a sequential numerical format (e.g., CCG-01, CCG-02, etc) then this can be done automatically as follows:
-  a. Click and drag to select the wells to receive sequential names.
-  b. Under **Assignment Options > Unknowns,** select **Series.** 
-  c. Under **Start from,** select **Top to Bottom** (assuming you are working in 8-strip columns; if working in rows, select **Left to Right**).
-  d. Set both **X-direction** and **Y-direction** to 1.
-  e. Under **Sample Information > Starting sample name,** enter your sample prefix, followed by the starting sample number (e.g., CCG-01 will result in CCG-01, CCG-02, etc).
-  f. Select **OK.**
+> - If your sample names are non-sequential, this must be done individually.
+> > a. Click your desired sample well.
+> > b. Under **Assignment Options > Unknowns > Sample,** type your sample name and press **Assign.**
+> > c. Repeat steps 10.b and 10.c for each sample.
+> - If they end in a sequential numerical format (e.g., CCG-01, CCG-02, etc) then this can be done automatically as follows:
+> > a. Click and drag to select the wells to receive sequential names.
+> > b. Under **Assignment Options > Unknowns,** select **Series.** 
+> > c. Under **Start from,** select **Top to Bottom** (assuming you are working in 8-strip columns; if working in rows, select **Left to Right**).
+> > d. Set both **X-direction** and **Y-direction** to 1.
+> > e. Under **Sample Information > Starting sample name,** enter your sample prefix, followed by the starting sample number (e.g., CCG-01 will result in CCG-01, CCG-02, etc).
+> > f. Select **OK.**
 > {: .note}
 > Do not assign samples to empty wells. To clear empty wells, right-click them and select Clear.
 12. Double-check that your plate template setup accurately reflects your planned physical sample layout and press OK to exit the template editor.
