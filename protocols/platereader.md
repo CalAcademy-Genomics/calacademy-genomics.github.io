@@ -117,17 +117,15 @@ The Plate Reader software runs on Windows 7, which is no longer supported (and t
 <details open markdown="block">
 <summary>Click here to show/hide this section.</summary>
 
-#### 96-well (2-Plate) setup
+#### Standard setup ("mostly full")
+This template is well-suited to plates that are “almost full.” Two standards occupy the bottom right corner (which are often the last to be filled), allowing the use of an 8-tip multi-channel. For a full plate, consider splitting as above (or quantifying the last two samples using a standard Qubit).
+
+<img src='https://raw.githubusercontent.com/CalAcademy-Genomics/calacademy-genomics.github.io/refs/heads/main/assets/88well.png' alt="88+2 setup">
+
+#### Full plate (split 96)
 This template is well-suited to quantifying full plates (when all 96 wells are filled with samples). This allows for easy filling using an 8-tip multichannel pipette, and preserves the well/sample ID layout in the output spreadsheet.
 Alternatively, you can split the samples vertically (top/bottom instead of left/right) and use a 12-tip multichannel pipette (if available).
 
 <img src='https://raw.githubusercontent.com/CalAcademy-Genomics/calacademy-genomics.github.io/refs/heads/main/assets/half%26half.png' alt="full plate (split)">
 
-#### 96-well (2-Plate) setup
-This template is well-suited to quantifying full plates (when all 96 wells are filled with samples). This allows for easy filling using an 8-tip multichannel pipette, and preserves the well/sample ID layout in the output spreadsheet.
-Alternatively, you can split the samples vertically (top/bottom instead of left/right) and use a 12-tip multichannel pipette (if available).
-
-<img src='https://raw.githubusercontent.com/CalAcademy-Genomics/calacademy-genomics.github.io/refs/heads/main/assets/88well.png' alt="88+2 setup">
-
 </details>
-
