@@ -112,3 +112,22 @@ The Plate Reader software runs on Windows 7, which is no longer supported (and t
 28. Select an output file format (XLS is compatible with Microsoft Office and Google Sheets) and press OK.
 29. Transfer your data to a USB drive. On Windows 7, it is recommended to use the “Safely Eject Hardware” button on the taskbar before removing the flash drive to prevent data corruption.
 30. Turn off the Plate Reader device and computer.
+
+### Example plate templates
+<details open markdown="block">
+<summary>Click here to show/hide this section.</summary>
+
+#### 96-well (2-Plate) setup
+This template is well-suited to quantifying full plates (when all 96 wells are filled with samples). This allows for easy filling using an 8-tip multichannel pipette, and preserves the well/sample ID layout in the output spreadsheet.
+Alternatively, you can split the samples vertically (top/bottom instead of left/right) and use a 12-tip multichannel pipette (if available).
+
+<img src='https://raw.githubusercontent.com/CalAcademy-Genomics/calacademy-genomics.github.io/refs/heads/main/assets/half%26half.png' alt="full plate (split)">
+
+#### 96-well (2-Plate) setup
+This template is well-suited to quantifying full plates (when all 96 wells are filled with samples). This allows for easy filling using an 8-tip multichannel pipette, and preserves the well/sample ID layout in the output spreadsheet.
+Alternatively, you can split the samples vertically (top/bottom instead of left/right) and use a 12-tip multichannel pipette (if available).
+
+<img src='https://raw.githubusercontent.com/CalAcademy-Genomics/calacademy-genomics.github.io/refs/heads/main/assets/88well.png' alt="88+2 setup">
+
+</details>
+
