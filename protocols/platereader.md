@@ -33,6 +33,7 @@ The Qubit reaction has an incubation time of 2 minutes, and its working solution
 >   - Calibrate, ON
 >   - Carriage speed, NORMAL
 >   - Read order, COLUMN
+{:style="counter-reset:none"}
 
 ### Plate Reader template setup
 5. Click Template Editor (or open the CCG-HA-Qubit template).
@@ -73,6 +74,7 @@ The Qubit reaction has an incubation time of 2 minutes, and its working solution
 > Do not assign samples to empty wells. To clear empty wells, right-click them and select Clear.
 12. Double-check that your plate template setup accurately reflects your planned physical sample layout and press OK to exit the template editor.
 13. Proceed to load your sample plate.
+{:style="counter-reset:none"}
 
 ### Sample loading
 13. Add 99 µL 1X dsDNA HS Qubit Reagent to each assigned well.
@@ -112,6 +114,7 @@ The Qubit reaction has an incubation time of 2 minutes, and its working solution
 28. Select an output file format (XLS is compatible with Microsoft Office and Google Sheets) and press OK.
 29. Transfer your data to a USB drive. On Windows 7, it is recommended to use the “Safely Eject Hardware” button on the taskbar before removing the flash drive to prevent data corruption.
 30. Turn off the Plate Reader device and computer.
+{:style="counter-reset:none"}
 
 ### Example plate templates
 <details open markdown="block">
