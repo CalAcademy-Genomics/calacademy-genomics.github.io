@@ -93,11 +93,11 @@ The Qubit reaction has an incubation time of 2 minutes, and its working solution
 {:style="counter-reset:none"}
 
 ### Data conversion and export
-{: .note}
-By default, the Plate Reader reports readings in relative fluorescence units (RFUs). These raw units can be mathematically converted to concentration values by calculating a standard curve and using the formula y = mx + b with y-intercept set to zero. However, the Plate Reader software can also do this for you using the Reduction feature.
+> {: .note}
+> By default, the Plate Reader reports readings in relative fluorescence units (RFUs). These raw units can be mathematically converted to concentration values by calculating a standard curve and using the formula y = mx + b with y-intercept set to zero. However, the Plate Reader software can also do this for you using the Reduction feature.
 
-{: .note}
-The Plate Reader software runs on Windows 7, which is no longer supported (and thus cannot be connected to the Academy Internet network). File exports must be moved off the Plate Reader computer using a USB flash drive. If you don’t have a USB drive, the CCG has a loaner for checkout.
+> {: .note}
+> The Plate Reader software runs on Windows 7, which is no longer supported (and thus cannot be connected to the Academy Internet network). File exports must be moved off the Plate Reader computer using a USB flash drive. If you don’t have a USB drive, the CCG has a loaner for checkout.
 
 22. Left-click the PCR plate icon in the upper left corner of the screen.
 23. Select Export > Export to XML XLS TXT.
