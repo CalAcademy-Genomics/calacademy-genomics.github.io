@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QIAGEN DNeasy Blood & Tissue Kit
+title: QIAGEN DNeasy B&T Kit (Blood)
 nav_order: 1
 ancestor: Protocols
 parent: Extraction
@@ -8,6 +8,8 @@ parent: Extraction
 
 # QIAGEN DNeasy Blood & Tissue Kit
 This protocol is modified from the [QIAGEN Blood & Tissue Kit Handbook](https://www.qiagen.com/ec/resources/download.aspx?id=68f29296-5a9f-40fa-8b3d-1c148d0b3030&lang=en).
+
+For (non-blood) tissue samples, click [here](https://calacademy-genomics.github.io/protocols/QIAGEN%20DNeasy%20(Tissue).html).
 
 {: .note }
 If you are extracting DNA from small samples that are stored in EtOH, it is best to dry your sample of any EtOH before carrying out the extraction. You can do this by placing open tubes in the incubator; check on them every (approximately) 5 minutes.
