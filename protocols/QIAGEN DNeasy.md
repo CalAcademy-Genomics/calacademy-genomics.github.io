@@ -30,6 +30,19 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
 
 ### Protocol
 
+{: .note}
+> When extracting blood, ATL buffer is omitted. Instead of steps 1-6, add the following to each tube and proceed directly to step 6.
+>
+> | Type                     | ProK (µL) | Blood (µL) | PBS (1X)* (µL) | Total Volume (µL) |
+> |:-------------------------|:----------|:-----------|:---------------|:------------------|
+> | Fresh, non-nucleated     | 20        | 50–100     | 100–150        | 220               |
+> | Fresh, nucleated         | 20        | 5-10       | 190–195        | 220               |
+> 
+> Note that liquid blood samples must be treated with an anticoagulant at the time of collection.
+
+{: .warning}
+Certain types of blood samples (e.g., birds) may require elevated biosafety levels. The CCG is a BSL-1 facility, and bird blood must be rendered safe from avian influenza before it can be processed in our labs.
+
 1. Cut up tissue into very small (~25 mg) pieces and add to the locking tube.
     Cut tissue on either a glass petri dish or a piece of parafilm. Be sure to use clean forceps and a clean scalpel/razor blade for each sample. You may reuse your forceps if utilizing the “Germinator”, but please return forceps to the dirty container when finished.
 2. **Add 180 µL ATL Buffer** <code style="color : blue">(large blue tube)</code> to each 1.5 mL locking tube.
