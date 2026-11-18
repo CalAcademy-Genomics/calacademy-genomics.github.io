@@ -41,8 +41,8 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
 > Note that liquid blood samples must be treated with an anticoagulant at the time of collection, and that undiluted nucleated blood may become *extremely* viscous as red blood cells release their DNA into solution.
 
 {: .warning}
-<img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/GHS-biohazard.png?raw=true'
-    alt='GHS Biohazard'
+<img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/ISO-biohazard.png?raw=true'
+    alt='ISO Biohazard'
     width="48"
     align='left'>
 Certain types of blood samples (e.g., birds) may require elevated biosafety levels. The CCG is a BSL-1 facility, and bird blood must be rendered safe before it can be processed in our labs.
