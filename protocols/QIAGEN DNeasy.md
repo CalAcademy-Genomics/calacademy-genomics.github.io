@@ -31,14 +31,14 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
 ### Protocol
 
 {: .note}
-> When extracting blood, ATL buffer is omitted. Instead of steps 1-6, add the following to each tube and proceed directly to step 6.
+> When extracting blood, ATL buffer is omitted. Add the following to each tube and proceed directly to step 6.
 >
-> | Type                     | ProK (µL) | Blood (µL) | PBS (1X)* (µL) | Total Volume (µL) |
+> | Type                     | ProK (µL) | Blood (µL) | PBS (1X) (µL)  | Total Volume (µL) |
 > |:-------------------------|:----------|:-----------|:---------------|:------------------|
 > | Fresh, non-nucleated     | 20        | 50–100     | 100–150        | 220               |
 > | Fresh, nucleated         | 20        | 5-10       | 190–195        | 220               |
 > 
-> Note that liquid blood samples must be treated with an anticoagulant at the time of collection.
+> Note that liquid blood samples must be treated with an anticoagulant at the time of collection, and that undiluted nucleated blood may become *extremely* viscous as red blood cells release their DNA into solution.
 
 {: .warning}
 Certain types of blood samples (e.g., birds) may require elevated biosafety levels. The CCG is a BSL-1 facility, and bird blood must be rendered safe from avian influenza before it can be processed in our labs.
