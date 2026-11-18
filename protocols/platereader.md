@@ -3,7 +3,6 @@ layout: default
 title: Plate Reader
 parent: Quantification
 ancestor: Protocols
-ancestor: Lab Equipment
 ---
 
 # Checking DNA concentration with the Gemini EM Plate Reader and Qubit™ dsDNA HS Chemistry
