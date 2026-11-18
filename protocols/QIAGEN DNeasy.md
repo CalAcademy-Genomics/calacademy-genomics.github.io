@@ -1,6 +1,6 @@
 ---
 layout: default
-title: QIAGEN DNeasy Tissue Kit
+title: QIAGEN DNeasy Blood & Tissue Kit
 nav_order: 1
 ancestor: Protocols
 parent: Extraction
