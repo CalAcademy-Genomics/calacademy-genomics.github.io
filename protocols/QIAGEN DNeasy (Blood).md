@@ -6,7 +6,7 @@ ancestor: Protocols
 parent: Extraction
 ---
 
-# QIAGEN DNeasy Blood & Tissue Kit
+# QIAGEN DNeasy Blood & Tissue Kit (Blood)
 This protocol is modified from the [QIAGEN Blood & Tissue Kit Handbook](https://www.qiagen.com/ec/resources/download.aspx?id=68f29296-5a9f-40fa-8b3d-1c148d0b3030&lang=en).
 
 For (non-blood) tissue samples, click [here](https://calacademy-genomics.github.io/protocols/QIAGEN%20DNeasy%20(Tissue).html).
