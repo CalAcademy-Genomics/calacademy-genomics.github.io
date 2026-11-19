@@ -31,7 +31,7 @@ For (non-blood) tissue samples, click [here](https://calacademy-genomics.github.
 ### Protocol
 
 {: .note}
-When extracting blood, ATL buffer is omitted.
+The QIAGEN DNeasy Blood & Tissue Kit can handle a range of sample types. The ATL buffer is used for solid tissue and is omitted when working with blood.
 
 {: .caution}
 Be mindful when opening your tubes as the lids can be dirty with solution after being inverted during incubation. If at any point your gloves become dirty, change them. Be very careful not to allow any cross-contamination of the samples.
