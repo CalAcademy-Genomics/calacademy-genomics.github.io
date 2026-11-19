@@ -31,7 +31,10 @@ For (non-blood) tissue samples, click [here](https://calacademy-genomics.github.
 ### Protocol
 
 {: .note}
-> When extracting blood, ATL buffer is omitted.
+When extracting blood, ATL buffer is omitted.
+
+{: .caution}
+Be mindful when opening your tubes as the lids can be dirty with solution after being inverted during incubation. If at any point your gloves become dirty, change them. Be very careful not to allow any cross-contamination of the samples.
 
 1. Add the following to each tube:
 >
@@ -50,22 +53,15 @@ For (non-blood) tissue samples, click [here](https://calacademy-genomics.github.
     width="48"
     align='left'>
 > The CCG is a BSL-1 facility, and samples must meet USDA standards for BSL-1 before entering the lab space. Certain sample types (e.g., bird blood) may require elevated biosafety levels. When in doubt, assume a higher biosafety level and meet with Grace Kim *before* bringing these samples into the CCG.
-{:style="counter-reset:none"}
 
-{: .caution}
-Be mindful when opening your tubes as the lids can be dirty with solution after being inverted during incubation. If at any point your gloves become dirty, change them. Be very careful not to allow any cross-contamination of the samples.
-
-{:style="counter-reset:none"}
 2. **Add 200 µL AL Buffer** <code style="color : green">(green tube)</code> to each tube. Use filtered tips here as the soapy consistency of this buffer can otherwise cause the liquid to travel up the pipette shaft and into the pipette.
 3. Vortex tubes and incubate at 56°C 10 min–overnight. Use a rocking platform or thermal mixer, if available.
 4. **Remove digested samples from the incubator and spin down.**
 5. **Add 200 µL 100% EtOH** to each tube. Use the same precautions as in step 6, including the use of filtered tips.
 6. Ensure your tubes are locked closed. **Vortex thoroughly; spin down.**
->
 > {: .note} 
 > A white precipitate may form on addition of Buffer AL and ethanol. This precipitate does not interfere with the DNeasy procedure.
 
-{:style="counter-reset:none"}
 7. Pipette the mixture including any preciptate (≈600 µL) to DNeasy Mini Spin Columns with collection tubes. 
 > Use a P1000 with a filtered tip. When taking up the solution, avoid clumps of undigested tissue to prevent clogging the filter. Be sure not to touch or puncture the spin column filter with your pipette tip.
 
@@ -78,18 +74,14 @@ Be mindful when opening your tubes as the lids can be dirty with solution after 
 12. Transfer the spin columns to new 2 mL collection tubes.
 13. **Add 500 µL of AW2 Buffer** <code style="color : blue">(blue cap)</code> to each of the spin columns.
 14. **Centrifuge spin columns 3 min at 20,000 g** (14,000 rpm). 
+> {: .caution}
+> When removing the spin columns from the centrifuge, be careful not to let the flowthrough come into contact with the spin column. It is important to dry the membrane of the DNeasy Mini spin column, since residual ethanol may interfere with subsequent reactions. If this happens, spin for 15 sec at the same speed to dry the column again. Discard flowthrough.
 
-{: .caution}
-When removing the spin columns from the centrifuge, be careful not to let the flowthrough come into contact with the spin column. It is important to dry the membrane of the DNeasy Mini spin column, since residual ethanol may interfere with subsequent reactions. If this happens, spin for 15 sec at the same speed to dry the column again. Discard flowthrough.
-
-{:style="counter-reset:none"}
 15. Transfer the spin columns to labeled, 2.0 mL screw-cap tubes. 
-
-{: .note}
-It is very important at this step that you transfer the correct spin column to the correct labeled 2.0 mL storage tube! Be sure tubes are labeled with your extraction ID and extraction date.
+> {: .note}
+> It is very important at this step that you transfer the correct spin column to the correct labeled 2.0 mL storage tube! Be sure tubes are labeled with your extraction ID and extraction date.
 
 16. **Add 50–200 µL AE Buffer** <code style="color : olive">(yellow tube)</code> to each of the spin columns.
-> 
 > {: .note} 
 > 30 µL is the minimum elution volume required to saturate the filter.
 
