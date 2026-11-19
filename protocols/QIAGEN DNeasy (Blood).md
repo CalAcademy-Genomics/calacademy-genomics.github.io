@@ -37,14 +37,14 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
 
 1. Add the following to each tube:
 >
-> | Type                     | ProK (µL) | Blood (µL) | PBS (1X)* (µL) | Total Volume (µL) |
-> |:-------------------------|:----------|:-----------|:---------------|:------------------|
-> | Fresh, non-nucleated     | 20        | 50–100     | 100–150        | 220               |
-> | Fresh, nucleated         | 20        | 5-10       | 190–195        | 220               |
-> | NAP-preserved, nucleated | 40        | 70         | 180            | 290               |
-> | LB-preserved, nucleated  | 40        | 50         | 180            | 270               |
+> | Blood Sample Type        | ProK (µL) | Blood (µL) | 1X PBS (µL) | Total Volume (µL) |
+> |:-------------------------|:----------|:-----------|:------------|:------------------|
+> | Fresh, non-nucleated     | 20        | 50–100     | 100–150     | 220               |
+> | Fresh, nucleated         | 20        | 5-10       | 190–195     | 220               |
+> | NAP-preserved, nucleated | 40        | 70         | 180         | 290               |
+> | LB-preserved, nucleated  | 40        | 50         | 180         | 270               |
 >
-> Note that liquid blood samples must be treated with an anticoagulant at the time of collection, and that undiluted nucleated blood may become *extremely* viscous as red blood cells release their DNA into solution. NAP = nucleic acid preservation buffer; LB = lysis buffer. Values for preserved, nucleated blood based on SOPs from the Galápagos Lab (Jack Dumbacher / Jaime Chaves), which primarily works with avian specimens. 
+> Note that liquid blood samples must be treated with an anticoagulant at the time of collection, and that undiluted nucleated blood can become *extremely* viscous as red blood cells release their DNA into solution. NAP = nucleic acid preservation buffer; LB = lysis buffer. Values for preserved, nucleated blood based on SOPs from the Galápagos Lab (Jack Dumbacher / Jaime Chaves), which primarily works with avian specimens. 
 
 {: .warning}
 <img src='https://github.com/CCG-CAS/gh-pages/blob/main/assets/ISO-biohazard.png?raw=true'
@@ -52,17 +52,15 @@ If you are extracting DNA from small samples that are stored in EtOH, it is best
     width="48"
     align='left'>
 The CCG is a BSL-1 facility, and samples must meet USDA standards for BSL-1 before entering the lab space. Certain sample types (e.g., bird blood) may require elevated biosafety levels. When in doubt, assume a higher biosafety level and meet with Grace Kim *before* bringing these samples into the CCG.
-
 {:style="counter-reset:none"}
-2. 
-3. Vortex tubes and incubate at 55°C 4 hours–overnight. Use a rocking platform or thermal mixer, if available.
-4. **Remove digested samples from the incubator and spin down.**
 
 {: .caution}
 Be mindful when opening your tubes as the lids can be dirty with solution after being inverted during incubation. If at any point your gloves become dirty, change them. Be very careful not to allow any cross-contamination of the samples.
 
 {:style="counter-reset:none"}    
-5. **Add 200 µL AL Buffer** <code style="color : green">(green tube)</code> to each tube. Use filtered tips here as the soapy consistency of this buffer can otherwise cause the liquid to travel up the pipette shaft and into the pipette.
+2. **Add 200 µL AL Buffer** <code style="color : green">(green tube)</code> to each tube. Use filtered tips here as the soapy consistency of this buffer can otherwise cause the liquid to travel up the pipette shaft and into the pipette.
+3. Vortex tubes and incubate at 55°C 10 min–overnight. Use a rocking platform or thermal mixer, if available.
+4. **Remove digested samples from the incubator and spin down.**
 6. **Add 200 µL 100% EtOH** to each tube. Use the same precautions as in step 6, including the use of filtered tips.
 7. Ensure your tubes are locked closed. **Vortex thoroughly; spin down.**
 
@@ -91,16 +89,16 @@ When removing the spin columns from the centrifuge, be careful not to let the fl
 {:style="counter-reset:none"}
 16. Transfer the spin columns to labeled, 2.0 mL screw-cap tubes. 
 
-    It is very important at this step that you transfer the correct spin column to the correct labeled 2.0 mL storage tube! Be sure tubes are labeled with your extraction ID and extraction date.
+{: .note}
+It is very important at this step that you transfer the correct spin column to the correct labeled 2.0 mL storage tube! Be sure tubes are labeled with your extraction ID and extraction date.
 
-17. **Add 50 µL AE Buffer** <code style="color : olive">(yellow tube)</code> to each of the spin columns.
+17. **Add 50–200 µL AE Buffer** <code style="color : olive">(yellow tube)</code> to each of the spin columns.
 
 {: .note} 
-30 µL is the minimum elution volume required to saturate the filter. This lower volume may be advantageous if you expect your DNA yield to be very low.
-If you expect DNA yields to be high, you can elute in a larger volume of 100-200 µL. 
+30 µL is the minimum elution volume required to saturate the filter.
 
 {:style="counter-reset:none"}
-18. **Incubate 3 min at 55 °C** to increase DNA yield.
+18. **Incubate 1–3 min at 55 °C** to increase DNA yield.
 19. **Centrifuge 1 min at 6,000 g** (8,000 rpm).
 20. Discard your spin columns. Cap your tubes (with labels).
 21. Quantify your DNA concentration using the [Qubit Flurometer](https://ccg-cas.github.io/protocols/qubit.html).
