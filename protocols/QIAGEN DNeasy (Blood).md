@@ -62,8 +62,8 @@ Be mindful when opening your tubes as the lids can be dirty with solution after 
 > {: .note} 
 > A white precipitate may form on addition of Buffer AL and ethanol. This precipitate does not interfere with the DNeasy procedure.
 
-7. Pipette the mixture including any preciptate (≈600 µL) to DNeasy Mini Spin Columns with collection tubes. 
-> Use a P1000 with a filtered tip. When taking up the solution, avoid clumps of undigested tissue to prevent clogging the filter. Be sure not to touch or puncture the spin column filter with your pipette tip.
+7. Pipette the mixture including any preciptate (≈600 µL) to DNeasy Mini Spin Columns with collection tubes.  
+> Use a P1000 with a filtered tip. When taking up the solution, avoid clumps of undigested tissue to prevent clogging the filter. Be sure not to touch or puncture the spin column filter with your pipette tip. Very viscous samples may be easier to transfer with a wide-bore pipette.
 
 8. **Centrifuge spin columns 1 min at 6,000 g** (8,000 rpm). 
 > When you remove the tubes from the centrifuge, verify that all liquid transferred from the spin column to the collection tube. Discard flowthrough into the Hazardous Waste container. If you see liquid still in the spin column, this means the filter in the column is clogged. Before proceeding, spin those clogged tubes again for 15 seconds at 13,000 x g (12,700 rpm). If the filter remains clogged, use a pipette to aspirate off and discard the supernatant that is in the spin column before proceeding.
